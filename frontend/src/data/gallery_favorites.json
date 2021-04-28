@@ -1,0 +1,36 @@
+{
+    "1": {
+        "colors": { 
+            "hex": ["#CFE0C3", "#40798C"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["white", "black"] },
+        "header": {
+            "font": "Karla",
+            "style": "sans-serif",
+            "color": 1 },
+        "body": {
+            "font": "Lora",
+            "style": "monospace",
+            "color": 1 },
+        "backgroundColor": 0
+    },
+    "2": {
+        "colors": { 
+            "hex": ["#4C85F4", "#FFF27B"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["white", "black"] },
+        "header": {
+            "font": "Roboto",
+            "style": "sans-serif",
+            "alignment": "left",
+            "size": "16px",
+            "color": 1 },
+        "body": {
+            "font": "Zilla Slab",
+            "style": "monospace",
+            "size": "16px",
+            "alignment": "left",
+            "color": 1 },
+        "background": 0
+    }
+}

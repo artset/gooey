@@ -1,0 +1,43 @@
+.popup__header {
+    font-size: 24px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+
+@-webkit-keyframes zoom-enter {
+    from {
+      -webkit-transform: scale3d(0.3, 0.3, 0.3);
+      transform: scale3d(0.3, 0.3, 0.3);
+    }
+  }
+  
+  @keyframes zoom-enter {
+    from {
+      -webkit-transform: scale3d(0.3, 0.3, 0.3);
+      transform: scale3d(0.3, 0.3, 0.3);
+    }
+  }
+  
+  .zoom-enter {
+    -webkit-animation: rodal-zoom-enter both cubic-bezier(0.4, 0, 0, 1.5);
+    animation: rodal-zoom-enter both cubic-bezier(0.4, 0, 0, 1.5);
+  }
+  
+  @-webkit-keyframes zoom-leave {
+    to {
+      -webkit-transform: scale3d(0.3, 0.3, 0.3);
+      transform: scale3d(0.3, 0.3, 0.3);
+    }
+  }
+  
+  @keyframes zoom-leave {
+    to {
+      -webkit-transform: scale3d(0.3, 0.3, 0.3);
+      transform: scale3d(0.3, 0.3, 0.3);
+    }
+  }
+  
+  .zoom-leave {
+    -webkit-animation: rodal-zoom-leave both;
+    animation: rodal-zoom-leave both;
+  }

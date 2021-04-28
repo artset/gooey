@@ -1,0 +1,50 @@
+@import '../styles/variables';
+
+.error404 {
+    margin: 150px auto;
+    position: relative;
+    
+    width: 600px;
+    border: 1px solid $lightgrey1;
+    background: #ffffff;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.04);
+    border-radius: 5px;
+
+    &__top {
+        padding: 30px;
+    }
+
+    &__header {
+        font-weight: bold;
+        font-size: 22px;
+    }
+
+    &__description {
+        margin-top: 30px;
+    }
+
+    .wave {
+        display: flex !important;
+    }
+
+    &__button {
+        position: absolute;
+        bottom: 30px;
+        left: 220px;
+        text-align: center;
+
+        .button {
+            font-size: 18px;
+        }
+    }
+
+    &__banner {
+        margin-top: 20px;
+        text-align: center;
+        .banner {
+            display: inline-block;
+        }
+    }
+
+}

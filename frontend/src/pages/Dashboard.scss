@@ -1,0 +1,153 @@
+@import '../styles/variables';
+
+
+.workspace { 
+    &__import-quiz {
+        display: flex;
+    }
+}
+.content {
+    margin: 0 auto;
+    padding: 0px;
+    width: $contentWidth;
+    margin-top: 80px;
+}
+
+.dashboard-top {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+hr {
+    border: 0;
+    color:$lightgrey1;
+    background-color: $lightgrey1;
+    height: 0.8px;
+}
+
+.workspace__loader {
+    margin: 0 auto;
+    padding: 70px;
+}
+
+
+.workspace__sort-options {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    
+    // pertains to the ICONS of grid and list, and which is currently selected
+    .view {
+        color: $grey;
+    
+        .grid {
+            float: left;
+            padding: 7px;
+            margin-right: 10px;
+        }
+    
+        .list {
+            float: right;
+            padding: 7px;
+        }
+    
+        .selected-view {
+            display: inline-block;
+            border: 2px solid rgba(98, 221, 238, 0.7);
+            border-radius: 5px;
+            padding: 5px;
+        }
+    }
+}
+
+
+// pertains to actual display of elements
+.workspace__grid {
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+
+    .header--list {
+        display: none;
+    }
+}
+
+.workspace__name {
+    display: flex;
+    flex-wrap: wrap;
+
+    input[type=text] {
+        width: 580px;
+        border:none;
+        border-bottom:1px solid $lightgrey1;
+        font-family: $font;
+        display: inline-block;
+        margin-bottom: 20px;
+        padding: 15px;
+        font-size: 16px;
+        position: absolute;
+        margin-top: -50px;
+        margin-left: 55px;
+    }
+}
+
+.list__headings {
+    display: flex;
+    align-content: center;
+    font-weight: bold;
+
+    .list__date {
+        position: absolute;
+        margin-left: 500px;
+    }
+}
+
+textarea {
+    width: 90%;
+    height: 100px;
+    color: $body;
+    border:1px solid #dddddd;
+    font-family: $font;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 12px;
+}
+
+// editing the CSS of the tooltip that contains EmojiPicker
+.emoji-mart {
+    ul li::before {
+        content: ""; 
+    }
+
+    li {
+        cursor: pointer;
+    }
+}
+
+.emoji-tooltip {
+    width: 30px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.emoji--without-emoji-box {
+    width: 30px;
+    height: 30px;
+    background-color: $grey;
+}
+
+.emoji--with-emoji-box {
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+}
+
+.emoji-tooltip .popup-content {
+    width: auto !important;
+}
+
+.workspace__name {
+    display: block;
+}

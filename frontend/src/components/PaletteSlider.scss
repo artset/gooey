@@ -1,0 +1,18 @@
+@import '../styles/variables';
+
+.panel-group {
+    width: 45px;
+    height: 264px;
+}
+
+div.panelGroup > div:first-child .palette__color {
+    border-radius: 5px 5px 0px 0px;
+}
+
+div.panelGroup > div:last-child .palette__color {
+    border-radius: 0px 0px 5px 5px;
+}
+
+.divider {
+    height: 0px !important;
+}

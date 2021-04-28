@@ -1,0 +1,176 @@
+{
+    "1": {
+        "colors": { 
+            "hex": ["#FA4343", "#171B6A"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["red", "blue"],
+            "fun": ["strawberry", "blueberry"]
+        },
+        "title": {
+            "font": "PT Serif",
+            "type": "serif" ,
+            "color": 1
+        },
+        "body": {
+            "font": "Roboto",
+            "type": "sans-serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    "2": {
+        "colors": { 
+            "hex": ["#4C85F4", "#FFF27B"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["blue", "yellow"] ,
+            "fun": ["lemon", "blueberry"]
+        },
+        "title": {
+            "font": "Josefin Sans",
+            "type": "sans-serif",
+            "color": 1
+         },
+        "body": {
+            "font": "Inconsolata",
+            "type": "monospace",
+            "color": 1
+        },
+        "background": 0
+    },
+    "3": {
+        "colors": { 
+            "hex": ["#E4D4D4", "#F04B4B"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["blue", "yellow"],
+            "fun": ["lemon", "blueberry"]
+        },
+        "title": {
+            "font": "Archivo Narrow",
+            "type": "sans-serif",
+            "color": 1
+         },
+        "body": {
+            "font": "Lora",
+            "type": "serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    "4": {
+        "colors": { 
+            "hex": ["#FFDE6B", "#335534"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["yellow", "green"],
+            "fun": ["lemon", "lime"]
+         },
+        "title": {
+            "font": "Roboto Slab",
+            "type": "serif",
+            "color": 1
+         },
+        "body": {
+            "font": "Open Sans",
+            "type": "sans-serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    "5": {
+        "colors": { 
+            "hex": ["#313D5A", "#B0C6CE"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["blue", "blue"],
+            "fun": ["blueberry", "blueberry"]
+        },
+        "title": {
+            "font": "Karla",
+            "type": "sans-serif",
+            "color": 1
+         },
+        "body": {
+            "font": "Inconsolata",
+            "type": "monospace",
+            "color": 1
+        },
+        "background": 0
+    },
+    "6": {
+        "colors": { 
+            "hex": ["#68263E", "#F78154"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["red", "orange"],
+            "fun": ["strawberry", "mango"]
+        },
+        "title": {
+            "font": "Nunito",
+            "type": "sans-serif",
+            "color": 1
+         },
+        "body": {
+            "font": "Sunflower",
+            "type": "serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    "7": {
+        "colors": { 
+            "hex": ["#009B72", "#EBEBD3"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["green", "green"],
+            "fun": ["lime", "lime"]
+        },
+        "title": {
+            "font": "Open Sans Condensed",
+            "type": "sans-serif",
+            "color": 1
+         },
+        "body": {
+            "font": "Tajawal",
+            "type": "sans-serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    "8": {
+        "colors": { 
+            "hex": ["#F78154", "#083D77"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["orange", "blue"],
+            "fun": ["mango", "blueberry"]
+        },
+        "title": {
+            "font": "Noto Sans",
+            "type": "sans-serif",
+            "color": 1
+         },
+        "body": {
+            "font": "Gudea",
+            "type": "sans-serif",
+            "color": 1
+        },
+        "background": 0
+    },
+    "9": {
+        "colors": { 
+            "hex": ["#202733", "#9E7B9B"], 
+            "rgb": ["(255, 255, 255)", "(0,0,0)"], 
+            "labels":["purple", "purple"],
+            "fun": ["lilac", "lilac"]
+         },
+        "title": {
+            "font": "Zilla Slab",
+            "type": "serif",
+            "color": 1
+         },
+        "body": {
+            "font": "Quattrocento Sans",
+            "type": "sans-serif",
+            "color": 1
+        },
+        "background": 0
+    }
+
+
+
+}

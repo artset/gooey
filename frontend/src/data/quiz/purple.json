@@ -1,0 +1,1019 @@
+[
+    {
+        "name": "Indigo",
+        "rgb": [
+            75,
+            0,
+            130
+        ],
+        "hex": "#4B0082"
+    },
+    {
+        "name": "Purple Heart",
+        "rgb": [
+            116,
+            66,
+            200
+        ],
+        "hex": "#7442C8"
+    },
+    {
+        "name": "Eminence",
+        "rgb": [
+            108,
+            48,
+            130
+        ],
+        "hex": "#6C3082"
+    },
+    {
+        "name": "Cosmic",
+        "rgb": [
+            118,
+            57,
+            93
+        ],
+        "hex": "#76395D"
+    },
+    {
+        "name": "Trendy Pink",
+        "rgb": [
+            140,
+            100,
+            149
+        ],
+        "hex": "#8C6495"
+    },
+    {
+        "name": "Purple",
+        "rgb": [
+            102,
+            0,
+            153
+        ],
+        "hex": "#660099"
+    },
+    {
+        "name": "Tyrian Purple",
+        "rgb": [
+            102,
+            2,
+            60
+        ],
+        "hex": "#66023C"
+    },
+    {
+        "name": "Royal Purple",
+        "rgb": [
+            120,
+            81,
+            169
+        ],
+        "hex": "#7851A9"
+    },
+    {
+        "name": "Studio",
+        "rgb": [
+            113,
+            74,
+            178
+        ],
+        "hex": "#714AB2"
+    },
+    {
+        "name": "Seance",
+        "rgb": [
+            115,
+            30,
+            143
+        ],
+        "hex": "#731E8F"
+    },
+    {
+        "name": "Vivid Violet",
+        "rgb": [
+            143,
+            80,
+            157
+        ],
+        "hex": "#8F509D"
+    },
+    {
+        "name": "True V",
+        "rgb": [
+            138,
+            115,
+            214
+        ],
+        "hex": "#8A73D6"
+    },
+    {
+        "name": "Electric Violet",
+        "rgb": [
+            139,
+            0,
+            255
+        ],
+        "hex": "#8B00FF"
+    },
+    {
+        "name": "Medium Purple",
+        "rgb": [
+            147,
+            112,
+            219
+        ],
+        "hex": "#9370DB"
+    },
+    {
+        "name": "Purple Mountain's Majesty",
+        "rgb": [
+            150,
+            120,
+            182
+        ],
+        "hex": "#9678B6"
+    },
+    {
+        "name": "Lavender Purple",
+        "rgb": [
+            150,
+            123,
+            182
+        ],
+        "hex": "#967BB6"
+    },
+    {
+        "name": "Wisteria",
+        "rgb": [
+            205,
+            164,
+            222
+        ],
+        "hex": "#CDA4DE"
+    },
+    {
+        "name": "Lilac Bush",
+        "rgb": [
+            152,
+            116,
+            211
+        ],
+        "hex": "#9874D3"
+    },
+    {
+        "name": "Violet Eggplant",
+        "rgb": [
+            153,
+            17,
+            153
+        ],
+        "hex": "#991199"
+    },
+    {
+        "name": "Jacaranda",
+        "rgb": [
+            46,
+            3,
+            41
+        ],
+        "hex": "#2E0329"
+    },
+    {
+        "name": "Blue Diamond",
+        "rgb": [
+            56,
+            4,
+            116
+        ],
+        "hex": "#380474"
+    },
+    {
+        "name": "Mardi Gras",
+        "rgb": [
+            53,
+            0,
+            54
+        ],
+        "hex": "#350036"
+    },
+    {
+        "name": "Valentino",
+        "rgb": [
+            53,
+            14,
+            66
+        ],
+        "hex": "#350E42"
+    },
+    {
+        "name": "Jagger",
+        "rgb": [
+            53,
+            14,
+            87
+        ],
+        "hex": "#350E57"
+    },
+    {
+        "name": "Violent Violet",
+        "rgb": [
+            41,
+            12,
+            94
+        ],
+        "hex": "#290C5E"
+    },
+    {
+        "name": "Persian Indigo",
+        "rgb": [
+            50,
+            18,
+            122
+        ],
+        "hex": "#32127A"
+    },
+    {
+        "name": "Christalle",
+        "rgb": [
+            51,
+            3,
+            107
+        ],
+        "hex": "#33036B"
+    },
+    {
+        "name": "Melanzane",
+        "rgb": [
+            48,
+            5,
+            41
+        ],
+        "hex": "#300529"
+    },
+    {
+        "name": "Cherry Pie",
+        "rgb": [
+            42,
+            3,
+            89
+        ],
+        "hex": "#2A0359"
+    },
+    {
+        "name": "Paua",
+        "rgb": [
+            38,
+            3,
+            104
+        ],
+        "hex": "#260368"
+    },
+    {
+        "name": "Paris M",
+        "rgb": [
+            38,
+            5,
+            106
+        ],
+        "hex": "#26056A"
+    },
+    {
+        "name": "Violet",
+        "rgb": [
+            120,
+            92,
+            176
+        ],
+        "hex": "#785CB0"
+    },
+    {
+        "name": "Amethyst",
+        "rgb": [
+            153,
+            102,
+            204
+        ],
+        "hex": "#9966CC"
+    },
+    {
+        "name": "Pompadour",
+        "rgb": [
+            102,
+            0,
+            69
+        ],
+        "hex": "#660045"
+    },
+    {
+        "name": "Martinique",
+        "rgb": [
+            54,
+            48,
+            80
+        ],
+        "hex": "#363050"
+    },
+    {
+        "name": "Bastille",
+        "rgb": [
+            41,
+            33,
+            48
+        ],
+        "hex": "#292130"
+    },
+    {
+        "name": "Finn",
+        "rgb": [
+            105,
+            45,
+            84
+        ],
+        "hex": "#692D54"
+    },
+    {
+        "name": "Mulled Wine",
+        "rgb": [
+            78,
+            69,
+            98
+        ],
+        "hex": "#4E4562"
+    },
+    {
+        "name": "Midnight Pearl",
+        "rgb": [
+            112,
+            38,
+            112
+        ],
+        "hex": "#702670"
+    },
+    {
+        "name": "Blackcurrant",
+        "rgb": [
+            50,
+            41,
+            58
+        ],
+        "hex": "#32293A"
+    },
+    {
+        "name": "Bleached Cedar",
+        "rgb": [
+            44,
+            33,
+            51
+        ],
+        "hex": "#2C2133"
+    },
+    {
+        "name": "Twilight Lavender",
+        "rgb": [
+            138,
+            73,
+            107
+        ],
+        "hex": "#8A496B"
+    },
+    {
+        "name": "Sugar Plum",
+        "rgb": [
+            145,
+            78,
+            117
+        ],
+        "hex": "#914E75"
+    },
+    {
+        "name": "Razzmic Berry",
+        "rgb": [
+            141,
+            78,
+            133
+        ],
+        "hex": "#8D4E85"
+    },
+    {
+        "name": "Lavender",
+        "rgb": [
+            181,
+            126,
+            220
+        ],
+        "hex": "#B57EDC"
+    },
+    {
+        "name": "Lilac",
+        "rgb": [
+            219,
+            145,
+            239
+        ],
+        "hex": "#DB91EF"
+    },
+    {
+        "name": "Lily",
+        "rgb": [
+            200,
+            170,
+            191
+        ],
+        "hex": "#C8AABF"
+    },
+    {
+        "name": "Light Wisteria",
+        "rgb": [
+            201,
+            160,
+            220
+        ],
+        "hex": "#C9A0DC"
+    },
+    {
+        "name": "Perfume",
+        "rgb": [
+            208,
+            190,
+            248
+        ],
+        "hex": "#D0BEF8"
+    },
+    {
+        "name": "Prelude",
+        "rgb": [
+            208,
+            192,
+            229
+        ],
+        "hex": "#D0C0E5"
+    },
+    {
+        "name": "Moon Raker",
+        "rgb": [
+            214,
+            206,
+            246
+        ],
+        "hex": "#D6CEF6"
+    },
+    {
+        "name": "Mauve",
+        "rgb": [
+            224,
+            176,
+            255
+        ],
+        "hex": "#E0B0FF"
+    },
+    {
+        "name": "Fog",
+        "rgb": [
+            215,
+            208,
+            255
+        ],
+        "hex": "#D7D0FF"
+    },
+    {
+        "name": "Heliotrope",
+        "rgb": [
+            223,
+            115,
+            255
+        ],
+        "hex": "#DF73FF"
+    },
+    {
+        "name": "Snuff",
+        "rgb": [
+            226,
+            216,
+            237
+        ],
+        "hex": "#E2D8ED"
+    },
+    {
+        "name": "Magnolia",
+        "rgb": [
+            248,
+            244,
+            255
+        ],
+        "hex": "#F8F4FF"
+    },
+    {
+        "name": "Melanie",
+        "rgb": [
+            228,
+            194,
+            213
+        ],
+        "hex": "#E4C2D5"
+    },
+    {
+        "name": "Selago",
+        "rgb": [
+            240,
+            238,
+            253
+        ],
+        "hex": "#F0EEFD"
+    },
+    {
+        "name": "Twilight",
+        "rgb": [
+            228,
+            207,
+            222
+        ],
+        "hex": "#E4CFDE"
+    },
+    {
+        "name": "Lola",
+        "rgb": [
+            223,
+            207,
+            219
+        ],
+        "hex": "#DFCFDB"
+    },
+    {
+        "name": "Maverick",
+        "rgb": [
+            216,
+            194,
+            213
+        ],
+        "hex": "#D8C2D5"
+    },
+    {
+        "name": "Strikemaster",
+        "rgb": [
+            149,
+            99,
+            135
+        ],
+        "hex": "#956387"
+    },
+    {
+        "name": "Old Lavender",
+        "rgb": [
+            121,
+            104,
+            120
+        ],
+        "hex": "#796878"
+    },
+    {
+        "name": "Rum",
+        "rgb": [
+            121,
+            105,
+            137
+        ],
+        "hex": "#796989"
+    },
+    {
+        "name": "Deluge",
+        "rgb": [
+            117,
+            99,
+            168
+        ],
+        "hex": "#7563A8"
+    },
+    {
+        "name": "Kimberly",
+        "rgb": [
+            115,
+            108,
+            159
+        ],
+        "hex": "#736C9F"
+    },
+    {
+        "name": "Scampi",
+        "rgb": [
+            103,
+            95,
+            166
+        ],
+        "hex": "#675FA6"
+    },
+    {
+        "name": "Affair",
+        "rgb": [
+            113,
+            70,
+            147
+        ],
+        "hex": "#714693"
+    },
+    {
+        "name": "Butterfly Bush",
+        "rgb": [
+            98,
+            78,
+            154
+        ],
+        "hex": "#624E9A"
+    },
+    {
+        "name": "Voodoo",
+        "rgb": [
+            83,
+            52,
+            85
+        ],
+        "hex": "#533455"
+    },
+    {
+        "name": "French Lilac",
+        "rgb": [
+            236,
+            199,
+            238
+        ],
+        "hex": "#ECC7EE"
+    },
+    {
+        "name": "Clairvoyant",
+        "rgb": [
+            72,
+            6,
+            86
+        ],
+        "hex": "#480656"
+    },
+    {
+        "name": "Gigas",
+        "rgb": [
+            82,
+            60,
+            148
+        ],
+        "hex": "#523C94"
+    },
+    {
+        "name": "Dull Lavender",
+        "rgb": [
+            168,
+            153,
+            230
+        ],
+        "hex": "#A899E6"
+    },
+    {
+        "name": "Purple Chalk",
+        "rgb": [
+            241,
+            233,
+            255
+        ],
+        "hex": "#F1E9FF"
+    },
+    {
+        "name": "Soap",
+        "rgb": [
+            206,
+            200,
+            239
+        ],
+        "hex": "#CEC8EF"
+    },
+    {
+        "name": "Pixie Powder",
+        "rgb": [
+            57,
+            18,
+            133
+        ],
+        "hex": "#391285"
+    },
+    {
+        "name": "Lilac Luster",
+        "rgb": [
+            174,
+            152,
+            170
+        ],
+        "hex": "#AE98AA"
+    },
+    {
+        "name": "Glossy Grape",
+        "rgb": [
+            171,
+            146,
+            179
+        ],
+        "hex": "#AB92B3"
+    },
+    {
+        "name": "Cyber Grape",
+        "rgb": [
+            88,
+            66,
+            124
+        ],
+        "hex": "#58427C"
+    },
+    {
+        "name": "Chatelle",
+        "rgb": [
+            189,
+            179,
+            199
+        ],
+        "hex": "#BDB3C7"
+    },
+    {
+        "name": "Melrose",
+        "rgb": [
+            199,
+            193,
+            255
+        ],
+        "hex": "#C7C1FF"
+    },
+    {
+        "name": "Lavender Gray",
+        "rgb": [
+            189,
+            187,
+            215
+        ],
+        "hex": "#BDBBD7"
+    },
+    {
+        "name": "London Hue",
+        "rgb": [
+            190,
+            166,
+            195
+        ],
+        "hex": "#BEA6C3"
+    },
+    {
+        "name": "Biloba Flower",
+        "rgb": [
+            178,
+            161,
+            234
+        ],
+        "hex": "#B2A1EA"
+    },
+    {
+        "name": "East Side",
+        "rgb": [
+            172,
+            145,
+            206
+        ],
+        "hex": "#AC91CE"
+    },
+    {
+        "name": "Logan",
+        "rgb": [
+            170,
+            169,
+            205
+        ],
+        "hex": "#AAA9CD"
+    },
+    {
+        "name": "Cold Purple",
+        "rgb": [
+            171,
+            160,
+            217
+        ],
+        "hex": "#ABA0D9"
+    },
+    {
+        "name": "Victoria",
+        "rgb": [
+            83,
+            68,
+            145
+        ],
+        "hex": "#534491"
+    },
+    {
+        "name": "Amethyst Smoke",
+        "rgb": [
+            163,
+            151,
+            180
+        ],
+        "hex": "#A397B4"
+    },
+    {
+        "name": "Fuchsia City",
+        "rgb": [
+            122,
+            88,
+            193
+        ],
+        "hex": "#7A58C1"
+    },
+    {
+        "name": "Blue Marguerite",
+        "rgb": [
+            118,
+            102,
+            198
+        ],
+        "hex": "#7666C6"
+    },
+    {
+        "name": "Blue Violet",
+        "rgb": [
+            115,
+            102,
+            189
+        ],
+        "hex": "#7366BD"
+    },
+    {
+        "name": "Pigment Indigo",
+        "rgb": [
+            75,
+            0,
+            130
+        ],
+        "hex": "#4B0082"
+    },
+    {
+        "name": "Bossanova",
+        "rgb": [
+            78,
+            42,
+            90
+        ],
+        "hex": "#4E2A5A"
+    },
+    {
+        "name": "Honey Flower",
+        "rgb": [
+            79,
+            28,
+            112
+        ],
+        "hex": "#4F1C70"
+    },
+    {
+        "name": "Daisy Bush",
+        "rgb": [
+            79,
+            35,
+            152
+        ],
+        "hex": "#4F2398"
+    },
+    {
+        "name": "Scarlet Gum",
+        "rgb": [
+            67,
+            21,
+            96
+        ],
+        "hex": "#431560"
+    },
+    {
+        "name": "Loulou",
+        "rgb": [
+            70,
+            11,
+            65
+        ],
+        "hex": "#460B41"
+    },
+    {
+        "name": "Minsk",
+        "rgb": [
+            63,
+            48,
+            127
+        ],
+        "hex": "#3F307F"
+    },
+    {
+        "name": "Ripe Plum",
+        "rgb": [
+            65,
+            0,
+            86
+        ],
+        "hex": "#410056"
+    },
+    {
+        "name": "Kingfisher Daisy",
+        "rgb": [
+            62,
+            4,
+            128
+        ],
+        "hex": "#3E0480"
+    },
+    {
+        "name": "Windsor",
+        "rgb": [
+            60,
+            8,
+            120
+        ],
+        "hex": "#3C0878"
+    },
+    {
+        "name": "Jacksons Purple",
+        "rgb": [
+            32,
+            32,
+            141
+        ],
+        "hex": "#20208D"
+    },
+    {
+        "name": "Meteorite",
+        "rgb": [
+            60,
+            31,
+            118
+        ],
+        "hex": "#3C1F76"
+    },
+    {
+        "name": "Jacarta",
+        "rgb": [
+            58,
+            42,
+            106
+        ],
+        "hex": "#3A2A6A"
+    },
+    {
+        "name": "Purple Devil",
+        "rgb": [
+            56,
+            26,
+            81
+        ],
+        "hex": "#381A51"
+    },
+    {
+        "name": "Grape",
+        "rgb": [
+            111,
+            45,
+            168
+        ],
+        "hex": "#6F2DA8"
+    },
+    {
+        "name": "Plum",
+        "rgb": [
+            142,
+            69,
+            133
+        ],
+        "hex": "#8E4585"
+    },
+    {
+        "name": "Plump Purple",
+        "rgb": [
+            89,
+            70,
+            178
+        ],
+        "hex": "#5946B2"
+    },
+    {
+        "name": "Purple Mountains Majesty",
+        "rgb": [
+            157,
+            129,
+            186
+        ],
+        "hex": "#9D81BA"
+    },
+    {
+        "name": "Purple Plum",
+        "rgb": [
+            156,
+            81,
+            182
+        ],
+        "hex": "#9C51B6"
+    },
+    {
+        "name": "Violet Purple",
+        "rgb": [
+            146,
+            110,
+            174
+        ],
+        "hex": "#926EAE"
+    }
+]

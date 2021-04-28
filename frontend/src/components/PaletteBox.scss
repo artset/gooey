@@ -1,0 +1,53 @@
+@import '../styles/variables';
+
+.colorpicker-tooltip .popup-content {
+    width: auto !important;
+}
+
+.sketch-picker {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.palette {
+
+    &__color{
+        width: inherit;
+        height: inherit;
+        position: relative;
+        border-radius: inherit;
+    }
+
+    &__box {
+        position: relative;
+        border-radius: inherit;
+        width: inherit;
+        height: inherit;
+        cursor: pointer;
+    }
+
+}
+
+.palette__color {
+
+    &__button {
+        padding: 3px;
+    }
+
+    .popup-arrow {
+        background: rgba(255, 255, 255, 0.7) !important;
+    }
+
+    .popup-content {
+        width: auto !important;
+        box-shadow: none !important;
+        // border: none !important;
+        border-radius: 5px !important;
+        padding: 0px !important;
+    }
+
+    // .sketch-picker {
+    //     background: rgba(255, 255, 255, 0.7) !important;
+
+    // }
+}

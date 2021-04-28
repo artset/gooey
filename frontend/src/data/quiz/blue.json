@@ -1,0 +1,2306 @@
+[
+    {
+        "name": "Navy Blue",
+        "rgb": [
+            25,
+            116,
+            210
+        ],
+        "hex": "#1974D2"
+    },
+    {
+        "name": "Dark Blue",
+        "rgb": [
+            0,
+            0,
+            200
+        ],
+        "hex": "#0000C8"
+    },
+    {
+        "name": "Blue",
+        "rgb": [
+            31,
+            117,
+            254
+        ],
+        "hex": "#1F75FE"
+    },
+    {
+        "name": "Blue Lagoon",
+        "rgb": [
+            1,
+            121,
+            135
+        ],
+        "hex": "#017987"
+    },
+    {
+        "name": "Stratos",
+        "rgb": [
+            0,
+            7,
+            65
+        ],
+        "hex": "#000741"
+    },
+    {
+        "name": "Resolution Blue",
+        "rgb": [
+            0,
+            35,
+            135
+        ],
+        "hex": "#002387"
+    },
+    {
+        "name": "International Klein Blue",
+        "rgb": [
+            0,
+            47,
+            167
+        ],
+        "hex": "#002FA7"
+    },
+    {
+        "name": "Prussian Blue",
+        "rgb": [
+            0,
+            49,
+            83
+        ],
+        "hex": "#003153"
+    },
+    {
+        "name": "Midnight Blue",
+        "rgb": [
+            26,
+            72,
+            118
+        ],
+        "hex": "#1A4876"
+    },
+    {
+        "name": "Smalt",
+        "rgb": [
+            0,
+            51,
+            153
+        ],
+        "hex": "#003399"
+    },
+    {
+        "name": "Cobalt",
+        "rgb": [
+            0,
+            71,
+            171
+        ],
+        "hex": "#0047AB"
+    },
+    {
+        "name": "Sherpa Blue",
+        "rgb": [
+            0,
+            73,
+            80
+        ],
+        "hex": "#004950"
+    },
+    {
+        "name": "Endeavour",
+        "rgb": [
+            0,
+            86,
+            167
+        ],
+        "hex": "#0056A7"
+    },
+    {
+        "name": "Science Blue",
+        "rgb": [
+            0,
+            102,
+            204
+        ],
+        "hex": "#0066CC"
+    },
+    {
+        "name": "Blue Ribbon",
+        "rgb": [
+            0,
+            102,
+            255
+        ],
+        "hex": "#0066FF"
+    },
+    {
+        "name": "Allports",
+        "rgb": [
+            0,
+            118,
+            163
+        ],
+        "hex": "#0076A3"
+    },
+    {
+        "name": "Deep Cerulean",
+        "rgb": [
+            0,
+            123,
+            167
+        ],
+        "hex": "#007BA7"
+    },
+    {
+        "name": "Lochmara",
+        "rgb": [
+            0,
+            126,
+            199
+        ],
+        "hex": "#007EC7"
+    },
+    {
+        "name": "Azure Radiance",
+        "rgb": [
+            0,
+            127,
+            255
+        ],
+        "hex": "#007FFF"
+    },
+    {
+        "name": "Bondi Blue",
+        "rgb": [
+            0,
+            149,
+            182
+        ],
+        "hex": "#0095B6"
+    },
+    {
+        "name": "Pacific Blue",
+        "rgb": [
+            28,
+            169,
+            201
+        ],
+        "hex": "#1CA9C9"
+    },
+    {
+        "name": "Robin's Egg Blue",
+        "rgb": [
+            0,
+            204,
+            204
+        ],
+        "hex": "#00CCCC"
+    },
+    {
+        "name": "Cyan / Aqua",
+        "rgb": [
+            0,
+            255,
+            255
+        ],
+        "hex": "#00FFFF"
+    },
+    {
+        "name": "Blue Charcoal",
+        "rgb": [
+            1,
+            13,
+            26
+        ],
+        "hex": "#010D1A"
+    },
+    {
+        "name": "Midnight",
+        "rgb": [
+            1,
+            22,
+            53
+        ],
+        "hex": "#011635"
+    },
+    {
+        "name": "Astronaut Blue",
+        "rgb": [
+            1,
+            62,
+            98
+        ],
+        "hex": "#013E62"
+    },
+    {
+        "name": "Regal Blue",
+        "rgb": [
+            1,
+            63,
+            106
+        ],
+        "hex": "#013F6A"
+    },
+    {
+        "name": "Orient",
+        "rgb": [
+            1,
+            94,
+            133
+        ],
+        "hex": "#015E85"
+    },
+    {
+        "name": "Blue Stone",
+        "rgb": [
+            1,
+            97,
+            98
+        ],
+        "hex": "#016162"
+    },
+    {
+        "name": "Congress Blue",
+        "rgb": [
+            2,
+            71,
+            142
+        ],
+        "hex": "#02478E"
+    },
+    {
+        "name": "Bahama Blue",
+        "rgb": [
+            2,
+            99,
+            149
+        ],
+        "hex": "#026395"
+    },
+    {
+        "name": "Cerulean",
+        "rgb": [
+            29,
+            172,
+            214
+        ],
+        "hex": "#1DACD6"
+    },
+    {
+        "name": "Tangaroa",
+        "rgb": [
+            3,
+            22,
+            60
+        ],
+        "hex": "#03163C"
+    },
+    {
+        "name": "Mosque",
+        "rgb": [
+            3,
+            106,
+            110
+        ],
+        "hex": "#036A6E"
+    },
+    {
+        "name": "Blue Whale",
+        "rgb": [
+            4,
+            46,
+            76
+        ],
+        "hex": "#042E4C"
+    },
+    {
+        "name": "Anglerfish",
+        "rgb": [
+            4,
+            66,
+            89
+        ],
+        "hex": "#044259"
+    },
+    {
+        "name": "Teal Blue",
+        "rgb": [
+            24,
+            167,
+            181
+        ],
+        "hex": "#18A7B5"
+    },
+    {
+        "name": "Deep Cove",
+        "rgb": [
+            5,
+            16,
+            64
+        ],
+        "hex": "#051040"
+    },
+    {
+        "name": "Gulf Blue",
+        "rgb": [
+            5,
+            22,
+            87
+        ],
+        "hex": "#051657"
+    },
+    {
+        "name": "Venice Blue",
+        "rgb": [
+            5,
+            89,
+            137
+        ],
+        "hex": "#055989"
+    },
+    {
+        "name": "Catalina Blue",
+        "rgb": [
+            6,
+            42,
+            120
+        ],
+        "hex": "#062A78"
+    },
+    {
+        "name": "Tarawera",
+        "rgb": [
+            7,
+            58,
+            80
+        ],
+        "hex": "#073A50"
+    },
+    {
+        "name": "Deep Sapphire",
+        "rgb": [
+            8,
+            37,
+            103
+        ],
+        "hex": "#082567"
+    },
+    {
+        "name": "Bright Turquoise",
+        "rgb": [
+            8,
+            232,
+            222
+        ],
+        "hex": "#08E8DE"
+    },
+    {
+        "name": "Downriver",
+        "rgb": [
+            9,
+            34,
+            86
+        ],
+        "hex": "#092256"
+    },
+    {
+        "name": "Madison",
+        "rgb": [
+            9,
+            37,
+            93
+        ],
+        "hex": "#09255D"
+    },
+    {
+        "name": "Atoll",
+        "rgb": [
+            10,
+            111,
+            117
+        ],
+        "hex": "#0A6F75"
+    },
+    {
+        "name": "Blue Chill",
+        "rgb": [
+            12,
+            137,
+            144
+        ],
+        "hex": "#0C8990"
+    },
+    {
+        "name": "Torea Bay",
+        "rgb": [
+            15,
+            45,
+            158
+        ],
+        "hex": "#0F2D9E"
+    },
+    {
+        "name": "Arapawa",
+        "rgb": [
+            17,
+            12,
+            108
+        ],
+        "hex": "#110C6C"
+    },
+    {
+        "name": "Ultramarine",
+        "rgb": [
+            18,
+            10,
+            143
+        ],
+        "hex": "#120A8F"
+    },
+    {
+        "name": "Elephant",
+        "rgb": [
+            18,
+            52,
+            71
+        ],
+        "hex": "#123447"
+    },
+    {
+        "name": "Blue Zodiac",
+        "rgb": [
+            19,
+            38,
+            77
+        ],
+        "hex": "#13264D"
+    },
+    {
+        "name": "Tory Blue",
+        "rgb": [
+            20,
+            80,
+            170
+        ],
+        "hex": "#1450AA"
+    },
+    {
+        "name": "Bunting",
+        "rgb": [
+            21,
+            31,
+            76
+        ],
+        "hex": "#151F4C"
+    },
+    {
+        "name": "Denim",
+        "rgb": [
+            43,
+            108,
+            196
+        ],
+        "hex": "#2B6CC4"
+    },
+    {
+        "name": "Big Stone",
+        "rgb": [
+            22,
+            42,
+            64
+        ],
+        "hex": "#162A40"
+    },
+    {
+        "name": "Chathams Blue",
+        "rgb": [
+            23,
+            85,
+            121
+        ],
+        "hex": "#175579"
+    },
+    {
+        "name": "Blumine",
+        "rgb": [
+            24,
+            88,
+            122
+        ],
+        "hex": "#18587A"
+    },
+    {
+        "name": "Nile Blue",
+        "rgb": [
+            25,
+            55,
+            81
+        ],
+        "hex": "#193751"
+    },
+    {
+        "name": "Fun Blue",
+        "rgb": [
+            25,
+            89,
+            168
+        ],
+        "hex": "#1959A8"
+    },
+    {
+        "name": "Lucky Point",
+        "rgb": [
+            26,
+            26,
+            104
+        ],
+        "hex": "#1A1A68"
+    },
+    {
+        "name": "Tolopea",
+        "rgb": [
+            27,
+            2,
+            69
+        ],
+        "hex": "#1B0245"
+    },
+    {
+        "name": "Haiti",
+        "rgb": [
+            27,
+            16,
+            53
+        ],
+        "hex": "#1B1035"
+    },
+    {
+        "name": "Deep Koamaru",
+        "rgb": [
+            27,
+            18,
+            123
+        ],
+        "hex": "#1B127B"
+    },
+    {
+        "name": "Biscay",
+        "rgb": [
+            27,
+            49,
+            98
+        ],
+        "hex": "#1B3162"
+    },
+    {
+        "name": "Matisse",
+        "rgb": [
+            27,
+            101,
+            157
+        ],
+        "hex": "#1B659D"
+    },
+    {
+        "name": "Persian Blue",
+        "rgb": [
+            28,
+            57,
+            187
+        ],
+        "hex": "#1C39BB"
+    },
+    {
+        "name": "Cello",
+        "rgb": [
+            30,
+            56,
+            91
+        ],
+        "hex": "#1E385B"
+    },
+    {
+        "name": "Bali Hai",
+        "rgb": [
+            133,
+            159,
+            175
+        ],
+        "hex": "#859FAF"
+    },
+    {
+        "name": "Firefly",
+        "rgb": [
+            14,
+            42,
+            48
+        ],
+        "hex": "#0E2A30"
+    },
+    {
+        "name": "Lapis Lazuli",
+        "rgb": [
+            67,
+            108,
+            185
+        ],
+        "hex": "#436CB9"
+    },
+    {
+        "name": "Cerulean Frost",
+        "rgb": [
+            109,
+            155,
+            195
+        ],
+        "hex": "#6D9BC3"
+    },
+    {
+        "name": "Aqua Haze",
+        "rgb": [
+            237,
+            245,
+            245
+        ],
+        "hex": "#EDF5F5"
+    },
+    {
+        "name": "Zumthor",
+        "rgb": [
+            237,
+            246,
+            255
+        ],
+        "hex": "#EDF6FF"
+    },
+    {
+        "name": "Aqua Spring",
+        "rgb": [
+            234,
+            249,
+            245
+        ],
+        "hex": "#EAF9F5"
+    },
+    {
+        "name": "Aqua Squeeze",
+        "rgb": [
+            232,
+            245,
+            242
+        ],
+        "hex": "#E8F5F2"
+    },
+    {
+        "name": "Bermuda Gray",
+        "rgb": [
+            107,
+            139,
+            162
+        ],
+        "hex": "#6B8BA2"
+    },
+    {
+        "name": "Mischka",
+        "rgb": [
+            209,
+            210,
+            221
+        ],
+        "hex": "#D1D2DD"
+    },
+    {
+        "name": "Gumbo",
+        "rgb": [
+            124,
+            161,
+            166
+        ],
+        "hex": "#7CA1A6"
+    },
+    {
+        "name": "Ship Cove",
+        "rgb": [
+            120,
+            139,
+            186
+        ],
+        "hex": "#788BBA"
+    },
+    {
+        "name": "Gothic",
+        "rgb": [
+            109,
+            146,
+            161
+        ],
+        "hex": "#6D92A1"
+    },
+    {
+        "name": "Hoki",
+        "rgb": [
+            101,
+            134,
+            159
+        ],
+        "hex": "#65869F"
+    },
+    {
+        "name": "Petrichor",
+        "rgb": [
+            105,
+            126,
+            154
+        ],
+        "hex": "#697E9A"
+    },
+    {
+        "name": "Tradewind",
+        "rgb": [
+            95,
+            179,
+            172
+        ],
+        "hex": "#5FB3AC"
+    },
+    {
+        "name": "Danube",
+        "rgb": [
+            96,
+            147,
+            209
+        ],
+        "hex": "#6093D1"
+    },
+    {
+        "name": "Breaker Bay",
+        "rgb": [
+            93,
+            161,
+            159
+        ],
+        "hex": "#5DA19F"
+    },
+    {
+        "name": "Waikawa Gray",
+        "rgb": [
+            90,
+            110,
+            156
+        ],
+        "hex": "#5A6E9C"
+    },
+    {
+        "name": "Horizon",
+        "rgb": [
+            90,
+            135,
+            160
+        ],
+        "hex": "#5A87A0"
+    },
+    {
+        "name": "Wedgewood",
+        "rgb": [
+            78,
+            127,
+            158
+        ],
+        "hex": "#4E7F9E"
+    },
+    {
+        "name": "Shakespeare",
+        "rgb": [
+            78,
+            171,
+            209
+        ],
+        "hex": "#4EABD1"
+    },
+    {
+        "name": "San Marino",
+        "rgb": [
+            69,
+            108,
+            172
+        ],
+        "hex": "#456CAC"
+    },
+    {
+        "name": "Dodger Blue",
+        "rgb": [
+            30,
+            144,
+            255
+        ],
+        "hex": "#1E90FF"
+    },
+    {
+        "name": "Astral",
+        "rgb": [
+            50,
+            125,
+            160
+        ],
+        "hex": "#327DA0"
+    },
+    {
+        "name": "Cloud Burst",
+        "rgb": [
+            32,
+            46,
+            84
+        ],
+        "hex": "#202E54"
+    },
+    {
+        "name": "Blue Dianne",
+        "rgb": [
+            32,
+            72,
+            82
+        ],
+        "hex": "#204852"
+    },
+    {
+        "name": "Deep Blue",
+        "rgb": [
+            34,
+            8,
+            120
+        ],
+        "hex": "#220878"
+    },
+    {
+        "name": "Port Gore",
+        "rgb": [
+            37,
+            31,
+            79
+        ],
+        "hex": "#251F4F"
+    },
+    {
+        "name": "Curious Blue",
+        "rgb": [
+            37,
+            150,
+            209
+        ],
+        "hex": "#2596D1"
+    },
+    {
+        "name": "Ebony Clay",
+        "rgb": [
+            38,
+            40,
+            59
+        ],
+        "hex": "#26283B"
+    },
+    {
+        "name": "Bay of Many",
+        "rgb": [
+            39,
+            58,
+            129
+        ],
+        "hex": "#273A81"
+    },
+    {
+        "name": "Astronaut",
+        "rgb": [
+            40,
+            58,
+            119
+        ],
+        "hex": "#283A77"
+    },
+    {
+        "name": "Mariner",
+        "rgb": [
+            40,
+            106,
+            205
+        ],
+        "hex": "#286ACD"
+    },
+    {
+        "name": "Cerulean Blue",
+        "rgb": [
+            42,
+            82,
+            190
+        ],
+        "hex": "#2A52BE"
+    },
+    {
+        "name": "Valhalla",
+        "rgb": [
+            43,
+            25,
+            79
+        ],
+        "hex": "#2B194F"
+    },
+    {
+        "name": "Blue Gem",
+        "rgb": [
+            44,
+            14,
+            140
+        ],
+        "hex": "#2C0E8C"
+    },
+    {
+        "name": "Revolver",
+        "rgb": [
+            44,
+            22,
+            50
+        ],
+        "hex": "#2C1632"
+    },
+    {
+        "name": "Eastern Blue",
+        "rgb": [
+            30,
+            154,
+            176
+        ],
+        "hex": "#1E9AB0"
+    },
+    {
+        "name": "Wayfarer",
+        "rgb": [
+            31,
+            194,
+            194
+        ],
+        "hex": "#1FC2C2"
+    },
+    {
+        "name": "Vulcan",
+        "rgb": [
+            16,
+            18,
+            29
+        ],
+        "hex": "#10121D"
+    },
+    {
+        "name": "Baltic Sea",
+        "rgb": [
+            42,
+            38,
+            48
+        ],
+        "hex": "#2A2630"
+    },
+    {
+        "name": "Jelly Bean",
+        "rgb": [
+            41,
+            123,
+            154
+        ],
+        "hex": "#297B9A"
+    },
+    {
+        "name": "Metallic Seaweed",
+        "rgb": [
+            10,
+            126,
+            140
+        ],
+        "hex": "#0A7E8C"
+    },
+    {
+        "name": "Moonstone",
+        "rgb": [
+            58,
+            168,
+            193
+        ],
+        "hex": "#3AA8C1"
+    },
+    {
+        "name": "Shark",
+        "rgb": [
+            37,
+            39,
+            44
+        ],
+        "hex": "#25272C"
+    },
+    {
+        "name": "Green Blue",
+        "rgb": [
+            17,
+            100,
+            180
+        ],
+        "hex": "#1164B4"
+    },
+    {
+        "name": "Blue Green",
+        "rgb": [
+            13,
+            152,
+            186
+        ],
+        "hex": "#0D98BA"
+    },
+    {
+        "name": "Riptide",
+        "rgb": [
+            139,
+            230,
+            216
+        ],
+        "hex": "#8BE6D8"
+    },
+    {
+        "name": "Comet",
+        "rgb": [
+            92,
+            93,
+            117
+        ],
+        "hex": "#5C5D75"
+    },
+    {
+        "name": "Smalt Blue",
+        "rgb": [
+            81,
+            128,
+            143
+        ],
+        "hex": "#51808F"
+    },
+    {
+        "name": "Blue Bayoux",
+        "rgb": [
+            73,
+            102,
+            121
+        ],
+        "hex": "#496679"
+    },
+    {
+        "name": "Bismark",
+        "rgb": [
+            73,
+            113,
+            131
+        ],
+        "hex": "#497183"
+    },
+    {
+        "name": "River Bed",
+        "rgb": [
+            67,
+            76,
+            89
+        ],
+        "hex": "#434C59"
+    },
+    {
+        "name": "Pelorous",
+        "rgb": [
+            62,
+            171,
+            191
+        ],
+        "hex": "#3EABBF"
+    },
+    {
+        "name": "Fiord",
+        "rgb": [
+            64,
+            81,
+            105
+        ],
+        "hex": "#405169"
+    },
+    {
+        "name": "St Tropaz",
+        "rgb": [
+            45,
+            86,
+            155
+        ],
+        "hex": "#2D569B"
+    },
+    {
+        "name": "Calypso",
+        "rgb": [
+            49,
+            114,
+            141
+        ],
+        "hex": "#31728D"
+    },
+    {
+        "name": "Rhino",
+        "rgb": [
+            46,
+            63,
+            98
+        ],
+        "hex": "#2E3F62"
+    },
+    {
+        "name": "Scooter",
+        "rgb": [
+            46,
+            191,
+            212
+        ],
+        "hex": "#2EBFD4"
+    },
+    {
+        "name": "Governor Bay",
+        "rgb": [
+            47,
+            60,
+            179
+        ],
+        "hex": "#2F3CB3"
+    },
+    {
+        "name": "Sapphire",
+        "rgb": [
+            45,
+            93,
+            161
+        ],
+        "hex": "#2D5DA1"
+    },
+    {
+        "name": "San Juan",
+        "rgb": [
+            48,
+            75,
+            106
+        ],
+        "hex": "#304B6A"
+    },
+    {
+        "name": "Turquoise",
+        "rgb": [
+            48,
+            213,
+            200
+        ],
+        "hex": "#30D5C8"
+    },
+    {
+        "name": "Pickled Bluewood",
+        "rgb": [
+            49,
+            68,
+            89
+        ],
+        "hex": "#314459"
+    },
+    {
+        "name": "Azure",
+        "rgb": [
+            49,
+            91,
+            161
+        ],
+        "hex": "#315BA1"
+    },
+    {
+        "name": "Chambray",
+        "rgb": [
+            53,
+            78,
+            140
+        ],
+        "hex": "#354E8C"
+    },
+    {
+        "name": "Oxford Blue",
+        "rgb": [
+            56,
+            69,
+            85
+        ],
+        "hex": "#384555"
+    },
+    {
+        "name": "Limed Spruce",
+        "rgb": [
+            57,
+            72,
+            81
+        ],
+        "hex": "#394851"
+    },
+    {
+        "name": "Boston Blue",
+        "rgb": [
+            59,
+            145,
+            180
+        ],
+        "hex": "#3B91B4"
+    },
+    {
+        "name": "Bright Gray",
+        "rgb": [
+            60,
+            65,
+            81
+        ],
+        "hex": "#3C4151"
+    },
+    {
+        "name": "Ship Gray",
+        "rgb": [
+            62,
+            58,
+            68
+        ],
+        "hex": "#3E3A44"
+    },
+    {
+        "name": "East Bay",
+        "rgb": [
+            65,
+            76,
+            125
+        ],
+        "hex": "#414C7D"
+    },
+    {
+        "name": "Royal Blue",
+        "rgb": [
+            65,
+            105,
+            225
+        ],
+        "hex": "#4169E1"
+    },
+    {
+        "name": "Picton Blue",
+        "rgb": [
+            69,
+            177,
+            232
+        ],
+        "hex": "#45B1E8"
+    },
+    {
+        "name": "Mirage",
+        "rgb": [
+            22,
+            25,
+            40
+        ],
+        "hex": "#161928"
+    },
+    {
+        "name": "Steel Blue",
+        "rgb": [
+            0,
+            129,
+            171
+        ],
+        "hex": "#0081AB"
+    },
+    {
+        "name": "Kashmir Blue",
+        "rgb": [
+            80,
+            112,
+            150
+        ],
+        "hex": "#507096"
+    },
+    {
+        "name": "Havelock Blue",
+        "rgb": [
+            85,
+            144,
+            217
+        ],
+        "hex": "#5590D9"
+    },
+    {
+        "name": "Fountain Blue",
+        "rgb": [
+            86,
+            180,
+            190
+        ],
+        "hex": "#56B4BE"
+    },
+    {
+        "name": "Hippie Blue",
+        "rgb": [
+            88,
+            154,
+            175
+        ],
+        "hex": "#589AAF"
+    },
+    {
+        "name": "Cornflower Blue",
+        "rgb": [
+            100,
+            149,
+            237
+        ],
+        "hex": "#6495ED"
+    },
+    {
+        "name": "Viking",
+        "rgb": [
+            100,
+            204,
+            219
+        ],
+        "hex": "#64CCDB"
+    },
+    {
+        "name": "Turquoise Blue",
+        "rgb": [
+            119,
+            221,
+            231
+        ],
+        "hex": "#77DDE7"
+    },
+    {
+        "name": "Downy",
+        "rgb": [
+            111,
+            208,
+            197
+        ],
+        "hex": "#6FD0C5"
+    },
+    {
+        "name": "Aquamarine Blue",
+        "rgb": [
+            113,
+            217,
+            226
+        ],
+        "hex": "#71D9E2"
+    },
+    {
+        "name": "Sky Blue",
+        "rgb": [
+            128,
+            218,
+            235
+        ],
+        "hex": "#80DAEB"
+    },
+    {
+        "name": "Spray",
+        "rgb": [
+            121,
+            222,
+            236
+        ],
+        "hex": "#79DEEC"
+    },
+    {
+        "name": "Wild Blue Yonder",
+        "rgb": [
+            162,
+            173,
+            208
+        ],
+        "hex": "#A2ADD0"
+    },
+    {
+        "name": "Neptune",
+        "rgb": [
+            124,
+            183,
+            187
+        ],
+        "hex": "#7CB7BB"
+    },
+    {
+        "name": "Malibu",
+        "rgb": [
+            125,
+            200,
+            247
+        ],
+        "hex": "#7DC8F7"
+    },
+    {
+        "name": "Bermuda",
+        "rgb": [
+            125,
+            216,
+            198
+        ],
+        "hex": "#7DD8C6"
+    },
+    {
+        "name": "Moody Blue",
+        "rgb": [
+            127,
+            118,
+            211
+        ],
+        "hex": "#7F76D3"
+    },
+    {
+        "name": "Gulf Stream",
+        "rgb": [
+            128,
+            179,
+            174
+        ],
+        "hex": "#80B3AE"
+    },
+    {
+        "name": "Glacier",
+        "rgb": [
+            128,
+            179,
+            196
+        ],
+        "hex": "#80B3C4"
+    },
+    {
+        "name": "Seagull",
+        "rgb": [
+            128,
+            204,
+            234
+        ],
+        "hex": "#80CCEA"
+    },
+    {
+        "name": "Monte Carlo",
+        "rgb": [
+            131,
+            208,
+            198
+        ],
+        "hex": "#83D0C6"
+    },
+    {
+        "name": "Chetwode Blue",
+        "rgb": [
+            133,
+            129,
+            217
+        ],
+        "hex": "#8581D9"
+    },
+    {
+        "name": "Half Baked",
+        "rgb": [
+            133,
+            196,
+            204
+        ],
+        "hex": "#85C4CC"
+    },
+    {
+        "name": "Jordy Blue",
+        "rgb": [
+            138,
+            185,
+            241
+        ],
+        "hex": "#8AB9F1"
+    },
+    {
+        "name": "Portage",
+        "rgb": [
+            139,
+            159,
+            238
+        ],
+        "hex": "#8B9FEE"
+    },
+    {
+        "name": "Polo Blue",
+        "rgb": [
+            141,
+            168,
+            204
+        ],
+        "hex": "#8DA8CC"
+    },
+    {
+        "name": "Nepal",
+        "rgb": [
+            142,
+            171,
+            193
+        ],
+        "hex": "#8EABC1"
+    },
+    {
+        "name": "Cornflower",
+        "rgb": [
+            154,
+            206,
+            235
+        ],
+        "hex": "#9ACEEB"
+    },
+    {
+        "name": "Blue Bell",
+        "rgb": [
+            162,
+            162,
+            208
+        ],
+        "hex": "#A2A2D0"
+    },
+    {
+        "name": "Anakiwa",
+        "rgb": [
+            157,
+            229,
+            255
+        ],
+        "hex": "#9DE5FF"
+    },
+    {
+        "name": "Rock Blue",
+        "rgb": [
+            158,
+            177,
+            205
+        ],
+        "hex": "#9EB1CD"
+    },
+    {
+        "name": "Morning Glory",
+        "rgb": [
+            158,
+            222,
+            224
+        ],
+        "hex": "#9EDEE0"
+    },
+    {
+        "name": "Sinbad",
+        "rgb": [
+            159,
+            215,
+            211
+        ],
+        "hex": "#9FD7D3"
+    },
+    {
+        "name": "Aqua Island",
+        "rgb": [
+            161,
+            218,
+            215
+        ],
+        "hex": "#A1DAD7"
+    },
+    {
+        "name": "Water Leaf",
+        "rgb": [
+            161,
+            233,
+            222
+        ],
+        "hex": "#A1E9DE"
+    },
+    {
+        "name": "Blizzard Blue",
+        "rgb": [
+            172,
+            229,
+            238
+        ],
+        "hex": "#ACE5EE"
+    },
+    {
+        "name": "Wistful",
+        "rgb": [
+            164,
+            166,
+            211
+        ],
+        "hex": "#A4A6D3"
+    },
+    {
+        "name": "Cadet Blue",
+        "rgb": [
+            176,
+            183,
+            198
+        ],
+        "hex": "#B0B7C6"
+    },
+    {
+        "name": "Tower Gray",
+        "rgb": [
+            169,
+            189,
+            191
+        ],
+        "hex": "#A9BDBF"
+    },
+    {
+        "name": "Perano",
+        "rgb": [
+            169,
+            190,
+            242
+        ],
+        "hex": "#A9BEF2"
+    },
+    {
+        "name": "Opal",
+        "rgb": [
+            169,
+            198,
+            194
+        ],
+        "hex": "#A9C6C2"
+    },
+    {
+        "name": "Regent St Blue",
+        "rgb": [
+            170,
+            214,
+            230
+        ],
+        "hex": "#AAD6E6"
+    },
+    {
+        "name": "Casper",
+        "rgb": [
+            173,
+            190,
+            209
+        ],
+        "hex": "#ADBED1"
+    },
+    {
+        "name": "Pigeon Post",
+        "rgb": [
+            175,
+            189,
+            217
+        ],
+        "hex": "#AFBDD9"
+    },
+    {
+        "name": "Powder Blue",
+        "rgb": [
+            176,
+            224,
+            230
+        ],
+        "hex": "#B0E0E6"
+    },
+    {
+        "name": "Ice Cold",
+        "rgb": [
+            177,
+            244,
+            231
+        ],
+        "hex": "#B1F4E7"
+    },
+    {
+        "name": "Jungle Mist",
+        "rgb": [
+            180,
+            207,
+            211
+        ],
+        "hex": "#B4CFD3"
+    },
+    {
+        "name": "Jet Stream",
+        "rgb": [
+            181,
+            210,
+            206
+        ],
+        "hex": "#B5D2CE"
+    },
+    {
+        "name": "Cruise",
+        "rgb": [
+            181,
+            236,
+            223
+        ],
+        "hex": "#B5ECDF"
+    },
+    {
+        "name": "Spindle",
+        "rgb": [
+            182,
+            209,
+            234
+        ],
+        "hex": "#B6D1EA"
+    },
+    {
+        "name": "Heather",
+        "rgb": [
+            183,
+            195,
+            208
+        ],
+        "hex": "#B7C3D0"
+    },
+    {
+        "name": "Sail",
+        "rgb": [
+            184,
+            224,
+            249
+        ],
+        "hex": "#B8E0F9"
+    },
+    {
+        "name": "Submarine",
+        "rgb": [
+            186,
+            199,
+            201
+        ],
+        "hex": "#BAC7C9"
+    },
+    {
+        "name": "Charlotte",
+        "rgb": [
+            186,
+            238,
+            249
+        ],
+        "hex": "#BAEEF9"
+    },
+    {
+        "name": "French Pass",
+        "rgb": [
+            189,
+            237,
+            253
+        ],
+        "hex": "#BDEDFD"
+    },
+    {
+        "name": "Blue Haze",
+        "rgb": [
+            191,
+            190,
+            216
+        ],
+        "hex": "#BFBED8"
+    },
+    {
+        "name": "Ziggurat",
+        "rgb": [
+            191,
+            219,
+            226
+        ],
+        "hex": "#BFDBE2"
+    },
+    {
+        "name": "Jagged Ice",
+        "rgb": [
+            194,
+            232,
+            229
+        ],
+        "hex": "#C2E8E5"
+    },
+    {
+        "name": "Periwinkle Gray",
+        "rgb": [
+            195,
+            205,
+            230
+        ],
+        "hex": "#C3CDE6"
+    },
+    {
+        "name": "Tropical Blue",
+        "rgb": [
+            195,
+            221,
+            249
+        ],
+        "hex": "#C3DDF9"
+    },
+    {
+        "name": "Mint Tulip",
+        "rgb": [
+            196,
+            244,
+            235
+        ],
+        "hex": "#C4F4EB"
+    },
+    {
+        "name": "Botticelli",
+        "rgb": [
+            199,
+            221,
+            229
+        ],
+        "hex": "#C7DDE5"
+    },
+    {
+        "name": "Aero Blue",
+        "rgb": [
+            201,
+            255,
+            229
+        ],
+        "hex": "#C9FFE5"
+    },
+    {
+        "name": "Periwinkle",
+        "rgb": [
+            197,
+            208,
+            230
+        ],
+        "hex": "#C5D0E6"
+    },
+    {
+        "name": "Onahau",
+        "rgb": [
+            205,
+            244,
+            255
+        ],
+        "hex": "#CDF4FF"
+    },
+    {
+        "name": "Humming Bird",
+        "rgb": [
+            207,
+            249,
+            243
+        ],
+        "hex": "#CFF9F3"
+    },
+    {
+        "name": "Scandal",
+        "rgb": [
+            207,
+            250,
+            244
+        ],
+        "hex": "#CFFAF4"
+    },
+    {
+        "name": "Hawkes Blue",
+        "rgb": [
+            212,
+            226,
+            252
+        ],
+        "hex": "#D4E2FC"
+    },
+    {
+        "name": "Foam",
+        "rgb": [
+            216,
+            252,
+            250
+        ],
+        "hex": "#D8FCFA"
+    },
+    {
+        "name": "Link Water",
+        "rgb": [
+            217,
+            228,
+            245
+        ],
+        "hex": "#D9E4F5"
+    },
+    {
+        "name": "Mabel",
+        "rgb": [
+            217,
+            247,
+            255
+        ],
+        "hex": "#D9F7FF"
+    },
+    {
+        "name": "Iceberg",
+        "rgb": [
+            218,
+            244,
+            240
+        ],
+        "hex": "#DAF4F0"
+    },
+    {
+        "name": "Oyster Bay",
+        "rgb": [
+            218,
+            250,
+            255
+        ],
+        "hex": "#DAFAFF"
+    },
+    {
+        "name": "Frosted Mint",
+        "rgb": [
+            219,
+            255,
+            248
+        ],
+        "hex": "#DBFFF8"
+    },
+    {
+        "name": "White Ice",
+        "rgb": [
+            221,
+            249,
+            241
+        ],
+        "hex": "#DDF9F1"
+    },
+    {
+        "name": "Pattens Blue",
+        "rgb": [
+            222,
+            245,
+            255
+        ],
+        "hex": "#DEF5FF"
+    },
+    {
+        "name": "Baby Blue",
+        "rgb": [
+            224,
+            255,
+            255
+        ],
+        "hex": "#E0FFFF"
+    },
+    {
+        "name": "Periglacial Blue",
+        "rgb": [
+            169,
+            180,
+            177
+        ],
+        "hex": "#A9B4B1"
+    },
+    {
+        "name": "Mystic",
+        "rgb": [
+            226,
+            235,
+            237
+        ],
+        "hex": "#E2EBED"
+    },
+    {
+        "name": "Polar",
+        "rgb": [
+            229,
+            249,
+            246
+        ],
+        "hex": "#E5F9F6"
+    },
+    {
+        "name": "Tranquil",
+        "rgb": [
+            230,
+            255,
+            255
+        ],
+        "hex": "#E6FFFF"
+    },
+    {
+        "name": "Lily White",
+        "rgb": [
+            231,
+            248,
+            255
+        ],
+        "hex": "#E7F8FF"
+    },
+    {
+        "name": "Bubbles",
+        "rgb": [
+            231,
+            254,
+            255
+        ],
+        "hex": "#E7FEFF"
+    },
+    {
+        "name": "Clear Day",
+        "rgb": [
+            233,
+            255,
+            253
+        ],
+        "hex": "#E9FFFD"
+    },
+    {
+        "name": "Solitude",
+        "rgb": [
+            234,
+            246,
+            255
+        ],
+        "hex": "#EAF6FF"
+    },
+    {
+        "name": "Dew",
+        "rgb": [
+            234,
+            255,
+            254
+        ],
+        "hex": "#EAFFFE"
+    },
+    {
+        "name": "Twilight Blue",
+        "rgb": [
+            238,
+            253,
+            255
+        ],
+        "hex": "#EEFDFF"
+    },
+    {
+        "name": "Alice Blue",
+        "rgb": [
+            240,
+            248,
+            255
+        ],
+        "hex": "#F0F8FF"
+    },
+    {
+        "name": "Absolute Zero",
+        "rgb": [
+            0,
+            72,
+            186
+        ],
+        "hex": "#0048BA"
+    },
+    {
+        "name": "Aqua Pearl",
+        "rgb": [
+            95,
+            190,
+            215
+        ],
+        "hex": "#5FBED7"
+    },
+    {
+        "name": "Flush",
+        "rgb": [
+            120,
+            219,
+            226
+        ],
+        "hex": "#78DBE2"
+    },
+    {
+        "name": "Aquamarine",
+        "rgb": [
+            127,
+            255,
+            212
+        ],
+        "hex": "#7FFFD4"
+    },
+    {
+        "name": "Bdazzled Blue",
+        "rgb": [
+            46,
+            88,
+            148
+        ],
+        "hex": "#2E5894"
+    },
+    {
+        "name": "Blue Gray",
+        "rgb": [
+            0,
+            6,
+            156
+        ],
+        "hex": "#00069C"
+    },
+    {
+        "name": "Blue Jeans",
+        "rgb": [
+            93,
+            173,
+            236
+        ],
+        "hex": "#5DADEC"
+    },
+    {
+        "name": "Blueberry",
+        "rgb": [
+            79,
+            134,
+            247
+        ],
+        "hex": "#4F86F7"
+    },
+    {
+        "name": "Canary",
+        "rgb": [
+            0,
+            15,
+            249
+        ],
+        "hex": "#000FF9"
+    },
+    {
+        "name": "Cosmic Cobalt",
+        "rgb": [
+            46,
+            45,
+            136
+        ],
+        "hex": "#2E2D88"
+    },
+    {
+        "name": "Denim Blue",
+        "rgb": [
+            34,
+            67,
+            182
+        ],
+        "hex": "#2243B6"
+    },
+    {
+        "name": "Fresh Air",
+        "rgb": [
+            166,
+            231,
+            255
+        ],
+        "hex": "#A6E7FF"
+    },
+    {
+        "name": "Fuzzy Wuzzy",
+        "rgb": [
+            0,
+            12,
+            102
+        ],
+        "hex": "#000C66"
+    },
+    {
+        "name": "Magic Potion",
+        "rgb": [
+            0,
+            15,
+            70
+        ],
+        "hex": "#000F46"
+    },
+    {
+        "name": "New Car",
+        "rgb": [
+            33,
+            79,
+            198
+        ],
+        "hex": "#214FC6"
+    },
+    {
+        "name": "Ocean Blue Pearl",
+        "rgb": [
+            79,
+            66,
+            181
+        ],
+        "hex": "#4F42B5"
+    },
+    {
+        "name": "Pewter Blue",
+        "rgb": [
+            139,
+            168,
+            183
+        ],
+        "hex": "#8BA8B7"
+    },
+    {
+        "name": "Robins Egg Blue",
+        "rgb": [
+            31,
+            206,
+            203
+        ],
+        "hex": "#1FCECB"
+    },
+    {
+        "name": "Sea Serpent",
+        "rgb": [
+            75,
+            199,
+            207
+        ],
+        "hex": "#4BC7CF"
+    },
+    {
+        "name": "Shadow Blue",
+        "rgb": [
+            119,
+            139,
+            165
+        ],
+        "hex": "#778BA5"
+    },
+    {
+        "name": "Turquoise Pearl",
+        "rgb": [
+            59,
+            188,
+            208
+        ],
+        "hex": "#3BBCD0"
+    },
+    {
+        "name": "Violet Blue",
+        "rgb": [
+            50,
+            74,
+            178
+        ],
+        "hex": "#324AB2"
+    },
+    {
+        "name": "Winter Wizard",
+        "rgb": [
+            160,
+            230,
+            255
+        ],
+        "hex": "#A0E6FF"
+    }
+]

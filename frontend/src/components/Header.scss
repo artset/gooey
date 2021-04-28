@@ -1,0 +1,92 @@
+@import '../styles/variables';
+
+.header {
+
+    .logo {
+        cursor: pointer;
+    }
+    transition: all 0.50s linear;
+    width: 100%;
+    padding: 20px;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    border-bottom: 2px solid rgba(204, 204, 204, 0.6);
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    -moz-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+    z-index: 999;
+
+    .settings {
+        display: flex;
+        align-items: stretch;
+
+    }
+    &__content {
+        margin: 0 auto;
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        &--quiz {
+             margin: 0 auto;
+            width: 80%;
+            display: flex;
+            align-items: center;
+
+            .colorboxes {
+                display: flex;
+                margin-left: 10px;
+            }
+
+        }
+
+    }
+
+
+    // this is for the dashboard header
+    .logo {
+        font-weight: bold;
+        color: $primary;
+        font-size: 26px;
+    }
+
+    // this is for the color quiz header
+    .choose-color {
+        font-weight: bold;
+    }
+}
+
+.header-workspace {
+    display: flex;
+    width: 420px;
+    justify-content: space-between;
+    align-items: center;
+    
+    .header-workspace-title {
+        margin-right: 40px;
+    }
+
+    .header-route__options {
+        display: flex;
+        width: 180px;
+        align-items:center;
+        justify-content: space-between;
+    }
+
+    .header-gallery, .header-stylesheet {
+        display: inline-block;
+        border-bottom: 2px solid transparent;
+        padding: 2px;
+        cursor: pointer;
+    }
+
+    .header-gallery--focus, .header-stylesheet--focus {
+        display: inline-block;
+        border-bottom: 2px solid $primary;
+        padding: 2px;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "stylesheets": {
+        "bb": {
+            "background": 0,
+            "body": {
+                "color": 1,
+                "font": "Karla",
+                "size": "12px",
+                "alignment": "left",
+                "style": "regular",
+                "text": "Karla Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                },
+            "title":
+                { "color": 1,
+                "font": "Crimson Text",
+                "size": "16px",
+                "alignment": "left",
+                "style": "regular",
+                "text": "Crimson Text Lorem Ipsum"
+                },
+            "colors": ["#FA4343", "#171B6A"]
+        },
+        "cd": {
+            "background": 0,
+            "body": 
+            { "color": 2,
+            "font": "Nunito",
+            "size": "12px",
+            "alignment": "left",
+            "style": "regular",
+            "text": "Nunito Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            "title":
+            { "color": 2,
+            "font": "Inconsolata",
+            "size": "16px",
+            "alignment": "left",
+            "style": "regular",
+            "text": "Inconsolata Lorem Ipsum"
+            },
+            "colors": ["#4C85F4", "#74CFE3", "#FFF27B"]
+        },
+        "3eff": {
+            "background": 0,
+            "body": 
+            { "color": 3,
+            "font": "Josefin Sans",
+            "size": "12px",
+            "alignment": "left",
+            "style": "regular",
+            "text": "Josefin Sans Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            "title":
+            { "color": 3,
+            "font": "Quando",
+            "size": "16px",
+            "alignment": "left",
+            "style": "regular",
+            "text": "Quando Lorem Ipsum"
+            },
+            "colors": ["#0B3954", "#087E8B", "#BFD7EA", "#FF5A5F", "#C81D25"]
+        },
+        "4ghh": {
+            "background": 0,
+            "body": 
+            { "color": 2,
+            "font": "Quattrocento Sans",
+            "size": "12px",
+            "alignment": "left",
+            "style": "regular",
+            "text": "Quattrocento Sans Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+            },
+            "title":
+            { "color": 1,
+            "font": "Zilla Slab",
+            "size": "16px",
+            "alignment": "left",
+            "style": "regular",
+            "text": "Zilla Slab Lorem Ipsum"
+            },
+            "colors": ["#904C77", "#E49AB0", "#ECB8A5", "#ECCFC3"]
+        }
+    },
+    "favorites": {
+        "ab": {
+            "colors": {
+                "hex": [
+                    "#CFE0C3",
+                    "#40798C"
+                ],
+                "rgb": [
+                    "(255, 255, 255)",
+                    "(0,0,0)"
+                ],
+                "labels": [
+                    "white",
+                    "black"
+                ]
+            },
+            "title": {
+                "font": "Karla",
+                "style": "sans-serif",
+                "color": 1
+            },
+            "body": {
+                "font": "Lora",
+                "style": "monospace",
+                "color": 1
+            },
+            "background": 0
+        },
+        "cd": {
+            "colors": {
+                "hex": [
+                    "#005954",
+                    "#E8CCBF"
+                ],
+                "rgb": [
+                    "(255, 255, 255)",
+                    "(0,0,0)"
+                ],
+                "labels": [
+                    "white",
+                    "black"
+                ]
+            },
+            "title": {
+                "font": "Roboto",
+                "style": "sans-serif",
+                "alignment": "left",
+                "size": "16px",
+                "color": 1
+            },
+            "body": {
+                "font": "Zilla Slab",
+                "style": "monospace",
+                "size": "16px",
+                "alignment": "left",
+                "color": 1
+            },
+            "background": 0
+        },
+        "ef": {
+            "colors": {
+                "hex": [
+                    "#381D2A",
+                    "#BA5624"
+                ],
+                "rgb": [
+                    "(255, 255, 255)",
+                    "(0,0,0)"
+                ],
+                "labels": [
+                    "white",
+                    "black"
+                ]
+            },
+            "title": {
+                "font": "Quando",
+                "style": "sans-serif",
+                "alignment": "left",
+                "size": "16px",
+                "color": 1
+            },
+            "body": {
+                "font": "Raleway",
+                "style": "monospace",
+                "size": "16px",
+                "alignment": "left",
+                "color": 1
+            },
+            "background": 0
+        },
+        "gh": {
+            "colors": {
+                "hex": [
+                    "#E9C46A",
+                    "#1F2935"
+                ],
+                "rgb": [
+                    "(255, 255, 255)",
+                    "(0,0,0)"
+                ],
+                "labels": [
+                    "white",
+                    "black"
+                ]
+            },
+            "title": {
+                "font": "Bitter",
+                "style": "sans-serif",
+                "alignment": "left",
+                "size": "16px",
+                "color": 1
+            },
+            "body": {
+                "font": "Nunito",
+                "style": "monospace",
+                "size": "16px",
+                "alignment": "left",
+                "color": 1
+            },
+            "background": 0
+        },
+        "jk": {
+            "colors": {
+                "hex": [
+                    "#70163C",
+                    "#EDD382"
+                ],
+                "rgb": [
+                    "(255, 255, 255)",
+                    "(0,0,0)"
+                ],
+                "labels": [
+                    "white",
+                    "black"
+                ]
+            },
+            "title": {
+                "font": "Alegreya Sans",
+                "style": "sans-serif",
+                "alignment": "left",
+                "size": "16px",
+                "color": 1
+            },
+            "body": {
+                "font": "Crimson Text",
+                "style": "monospace",
+                "size": "16px",
+                "alignment": "left",
+                "color": 1
+            },
+            "background": 0
+        },
+        "lm": {
+            "colors": {
+                "hex": [
+                    "#FCB9B2",
+                    "#8C2F39"
+                ],
+                "rgb": [
+                    "(255, 255, 255)",
+                    "(0,0,0)"
+                ],
+                "labels": [
+                    "white",
+                    "black"
+                ]
+            },
+            "title": {
+                "font": "Neuton",
+                "style": "sans-serif",
+                "alignment": "left",
+                "size": "16px",
+                "color": 1
+            },
+            "body": {
+                "font": "Poly",
+                "style": "monospace",
+                "size": "16px",
+                "alignment": "left",
+                "color": 1
+            },
+            "background": 0
+        }
+    }
+}

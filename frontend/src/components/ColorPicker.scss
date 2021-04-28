@@ -1,0 +1,104 @@
+@import '../styles/variables';
+
+.color-picker {
+    padding: 7px;
+    box-shadow: none !important;
+    border: 1px solid $lightgrey1;
+}
+
+div.color-picker > div:first-child {
+    border-radius: 3px;
+}
+
+.color-preview-box {
+    width: 35px;
+    height: 35px;
+    position: relative;
+    margin-top: 4px;
+    margin-left: 4px;
+    border-radius: 3px;
+}
+
+.flexbox-preview {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hue-horizontal {
+    border-radius: 2px;
+    height: 13px !important;
+ }
+
+.sliders {
+    flex: 1;
+}
+
+.sliders:first-child {
+    height: 13px !important;
+}
+
+ // this is to change the SLIDER 
+ div.hue-horizontal > div > div {
+        width: 5px !important;
+        box-shadow: none !important;
+        border: 0.5px solid $body !important;
+        height: 10px !important;
+
+ }
+
+ .left-preview {
+    height: 35px;
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+ }
+
+ .picker__options {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+ }
+
+ .hex-input {
+     font-size: 16px;
+     display: flex;
+     align-items: center;
+
+     #hex-label {
+         font-weight: bold;
+     }
+
+     #hex {
+        font-family: "Inconsolata";
+        margin-left: 5px;
+        padding: 4px;
+        height: 12px;
+        width: 50px;
+        border: 1px solid $lightgrey1;
+        border-radius: 2px;
+    }
+ }
+
+ // this is changing the size of CURSOR, guy didnt use classnames :|.
+ div.saturation-white > div:nth-child(2) > div:nth-child(1) {
+    width: 10px !important;
+    height: 10px !important;
+    border: 1px solid white !important;
+ }
+
+.swatch {
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.swatch-wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

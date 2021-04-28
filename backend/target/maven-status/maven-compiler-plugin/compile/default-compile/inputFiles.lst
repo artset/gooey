@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+C:\Users\katsa\documents\cs\cs0320\gooey\backend\src\main\java\edu\brown\cs\student\gooey\service\FirebaseInitialize.java
+C:\Users\katsa\documents\cs\cs0320\gooey\backend\src\main\java\edu\brown\cs\student\gooey\authentication\UserManager.java
+C:\Users\katsa\documents\cs\cs0320\gooey\backend\src\main\java\edu\brown\cs\student\gooey\HelloController.java
+C:\Users\katsa\documents\cs\cs0320\gooey\backend\src\main\java\edu\brown\cs\student\gooey\GooeyApplication.java
+C:\Users\katsa\documents\cs\cs0320\gooey\backend\src\main\java\edu\brown\cs\student\gooey\service\FirebaseService.java
+C:\Users\katsa\documents\cs\cs0320\gooey\backend\src\main\java\edu\brown\cs\student\gooey\service\Person.java
+=======
+/Users/yeonjunkim/Documents/cs0320/term-project-ksang1-mkimurat-qwei3-ykim106-1/backend/src/main/java/edu/brown/cs/student/gooey/model/Workspace.java
+/Users/yeonjunkim/Documents/cs0320/term-project-ksang1-mkimurat-qwei3-ykim106-1/backend/src/main/java/edu/brown/cs/student/gooey/service/FirebaseInitialize.java
+/Users/yeonjunkim/Documents/cs0320/term-project-ksang1-mkimurat-qwei3-ykim106-1/backend/src/main/java/edu/brown/cs/student/gooey/authentication/UserManager.java
+/Users/yeonjunkim/Documents/cs0320/term-project-ksang1-mkimurat-qwei3-ykim106-1/backend/src/main/java/edu/brown/cs/student/gooey/controller/MyController.java
+/Users/yeonjunkim/Documents/cs0320/term-project-ksang1-mkimurat-qwei3-ykim106-1/backend/src/main/java/edu/brown/cs/student/gooey/GooeyApplication.java
+/Users/yeonjunkim/Documents/cs0320/term-project-ksang1-mkimurat-qwei3-ykim106-1/backend/src/main/java/edu/brown/cs/student/gooey/service/FirebaseUserService.java
+/Users/yeonjunkim/Documents/cs0320/term-project-ksang1-mkimurat-qwei3-ykim106-1/backend/src/main/java/edu/brown/cs/student/gooey/model/User.java
+>>>>>>> flask_setup

@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
+
+$primary: #62DDEE;
+$body: #4F4F4F;
+$grey: #868686;
+$lightgrey1: #DDDDDD;
+$lightgrey2: #EEEEEE;
+$font:  'Inconsolata', monospace;
+$dropdownBox: rgba(98, 221, 238, 0.7);
+$danger: #e32d52;
+
+
+$red: #fa4728;
+$yellow: #fad028;
+$green: #60f065;
+$blue: $primary;
+$purple: #a854f7;
+$neutral: #e0dbbf;
+
+// no strict pixel values. doesnt work on other computers
+$contentWidth: 80%;
+
+
+@mixin transition($args...) {
+    -webkit-transition: $args;
+    -moz-transition: $args;
+    -ms-transition: $args;
+    -o-transition: $args;
+    transition: $args;
+  }

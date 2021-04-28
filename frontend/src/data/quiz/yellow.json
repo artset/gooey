@@ -1,0 +1,1244 @@
+[
+    {
+        "name": "Yellow Metal",
+        "rgb": [
+            113,
+            99,
+            56
+        ],
+        "hex": "#716338"
+    },
+    {
+        "name": "Green Yellow",
+        "rgb": [
+            240,
+            232,
+            145
+        ],
+        "hex": "#F0E891"
+    },
+    {
+        "name": "Apache",
+        "rgb": [
+            223,
+            190,
+            111
+        ],
+        "hex": "#DFBE6F"
+    },
+    {
+        "name": "Equator",
+        "rgb": [
+            225,
+            188,
+            100
+        ],
+        "hex": "#E1BC64"
+    },
+    {
+        "name": "Chenin",
+        "rgb": [
+            223,
+            205,
+            111
+        ],
+        "hex": "#DFCD6F"
+    },
+    {
+        "name": "Horses Neck",
+        "rgb": [
+            96,
+            73,
+            19
+        ],
+        "hex": "#604913"
+    },
+    {
+        "name": "Sunny Pearl",
+        "rgb": [
+            242,
+            242,
+            122
+        ],
+        "hex": "#F2F27A"
+    },
+    {
+        "name": "Sunset Pearl",
+        "rgb": [
+            241,
+            204,
+            121
+        ],
+        "hex": "#F1CC79"
+    },
+    {
+        "name": "Harvest Gold",
+        "rgb": [
+            224,
+            185,
+            116
+        ],
+        "hex": "#E0B974"
+    },
+    {
+        "name": "Aztec Gold",
+        "rgb": [
+            195,
+            153,
+            83
+        ],
+        "hex": "#C39953"
+    },
+    {
+        "name": "Pale Canary",
+        "rgb": [
+            255,
+            255,
+            153
+        ],
+        "hex": "#FFFF99"
+    },
+    {
+        "name": "Witch Haze",
+        "rgb": [
+            255,
+            252,
+            153
+        ],
+        "hex": "#FFFC99"
+    },
+    {
+        "name": "Golden Glow",
+        "rgb": [
+            253,
+            226,
+            149
+        ],
+        "hex": "#FDE295"
+    },
+    {
+        "name": "Paris Daisy",
+        "rgb": [
+            255,
+            244,
+            110
+        ],
+        "hex": "#FFF46E"
+    },
+    {
+        "name": "Buttermilk",
+        "rgb": [
+            255,
+            241,
+            181
+        ],
+        "hex": "#FFF1B5"
+    },
+    {
+        "name": "Picasso",
+        "rgb": [
+            255,
+            243,
+            157
+        ],
+        "hex": "#FFF39D"
+    },
+    {
+        "name": "Vis Vis",
+        "rgb": [
+            255,
+            239,
+            161
+        ],
+        "hex": "#FFEFA1"
+    },
+    {
+        "name": "Kournikova",
+        "rgb": [
+            255,
+            231,
+            114
+        ],
+        "hex": "#FFE772"
+    },
+    {
+        "name": "Drover",
+        "rgb": [
+            253,
+            247,
+            173
+        ],
+        "hex": "#FDF7AD"
+    },
+    {
+        "name": "Dolly",
+        "rgb": [
+            249,
+            255,
+            139
+        ],
+        "hex": "#F9FF8B"
+    },
+    {
+        "name": "West Coast",
+        "rgb": [
+            98,
+            81,
+            25
+        ],
+        "hex": "#625119"
+    },
+    {
+        "name": "Husk",
+        "rgb": [
+            183,
+            164,
+            88
+        ],
+        "hex": "#B7A458"
+    },
+    {
+        "name": "Goldenrod",
+        "rgb": [
+            252,
+            217,
+            117
+        ],
+        "hex": "#FCD975"
+    },
+    {
+        "name": "Festival",
+        "rgb": [
+            251,
+            233,
+            108
+        ],
+        "hex": "#FBE96C"
+    },
+    {
+        "name": "Sweet Corn",
+        "rgb": [
+            251,
+            234,
+            140
+        ],
+        "hex": "#FBEA8C"
+    },
+    {
+        "name": "Milan",
+        "rgb": [
+            250,
+            255,
+            164
+        ],
+        "hex": "#FAFFA4"
+    },
+    {
+        "name": "Texas",
+        "rgb": [
+            248,
+            249,
+            156
+        ],
+        "hex": "#F8F99C"
+    },
+    {
+        "name": "Portica",
+        "rgb": [
+            249,
+            230,
+            99
+        ],
+        "hex": "#F9E663"
+    },
+    {
+        "name": "Grandis",
+        "rgb": [
+            255,
+            211,
+            140
+        ],
+        "hex": "#FFD38C"
+    },
+    {
+        "name": "Earls Green",
+        "rgb": [
+            201,
+            185,
+            59
+        ],
+        "hex": "#C9B93B"
+    },
+    {
+        "name": "Hot Toddy",
+        "rgb": [
+            179,
+            128,
+            7
+        ],
+        "hex": "#B38007"
+    },
+    {
+        "name": "Ghee",
+        "rgb": [
+            209,
+            143,
+            27
+        ],
+        "hex": "#D18F1B"
+    },
+    {
+        "name": "Casablanca",
+        "rgb": [
+            248,
+            184,
+            83
+        ],
+        "hex": "#F8B853"
+    },
+    {
+        "name": "Saffron Mango",
+        "rgb": [
+            249,
+            191,
+            88
+        ],
+        "hex": "#F9BF58"
+    },
+    {
+        "name": "Cream Can",
+        "rgb": [
+            245,
+            200,
+            92
+        ],
+        "hex": "#F5C85C"
+    },
+    {
+        "name": "Rob Roy",
+        "rgb": [
+            234,
+            198,
+            116
+        ],
+        "hex": "#EAC674"
+    },
+    {
+        "name": "Bird Flower",
+        "rgb": [
+            212,
+            205,
+            22
+        ],
+        "hex": "#D4CD16"
+    },
+    {
+        "name": "Wattle",
+        "rgb": [
+            220,
+            215,
+            71
+        ],
+        "hex": "#DCD747"
+    },
+    {
+        "name": "Gold Tips",
+        "rgb": [
+            222,
+            186,
+            19
+        ],
+        "hex": "#DEBA13"
+    },
+    {
+        "name": "Barberry",
+        "rgb": [
+            222,
+            215,
+            23
+        ],
+        "hex": "#DED717"
+    },
+    {
+        "name": "Chartreuse Yellow",
+        "rgb": [
+            223,
+            255,
+            0
+        ],
+        "hex": "#DFFF00"
+    },
+    {
+        "name": "Sunflower",
+        "rgb": [
+            228,
+            212,
+            34
+        ],
+        "hex": "#E4D422"
+    },
+    {
+        "name": "Corn",
+        "rgb": [
+            231,
+            191,
+            5
+        ],
+        "hex": "#E7BF05"
+    },
+    {
+        "name": "Confetti",
+        "rgb": [
+            233,
+            215,
+            90
+        ],
+        "hex": "#E9D75A"
+    },
+    {
+        "name": "Tulip Tree",
+        "rgb": [
+            234,
+            179,
+            59
+        ],
+        "hex": "#EAB33B"
+    },
+    {
+        "name": "Sun",
+        "rgb": [
+            251,
+            172,
+            19
+        ],
+        "hex": "#FBAC13"
+    },
+    {
+        "name": "Fuel Yellow",
+        "rgb": [
+            236,
+            169,
+            39
+        ],
+        "hex": "#ECA927"
+    },
+    {
+        "name": "Ronchi",
+        "rgb": [
+            236,
+            197,
+            78
+        ],
+        "hex": "#ECC54E"
+    },
+    {
+        "name": "Starship",
+        "rgb": [
+            236,
+            242,
+            69
+        ],
+        "hex": "#ECF245"
+    },
+    {
+        "name": "Golden Dream",
+        "rgb": [
+            240,
+            213,
+            45
+        ],
+        "hex": "#F0D52D"
+    },
+    {
+        "name": "Saffron",
+        "rgb": [
+            244,
+            196,
+            48
+        ],
+        "hex": "#F4C430"
+    },
+    {
+        "name": "Ripe Lemon",
+        "rgb": [
+            244,
+            216,
+            28
+        ],
+        "hex": "#F4D81C"
+    },
+    {
+        "name": "Golden Fizz",
+        "rgb": [
+            245,
+            251,
+            61
+        ],
+        "hex": "#F5FB3D"
+    },
+    {
+        "name": "Energy Yellow",
+        "rgb": [
+            248,
+            221,
+            92
+        ],
+        "hex": "#F8DD5C"
+    },
+    {
+        "name": "Corn Field",
+        "rgb": [
+            248,
+            250,
+            205
+        ],
+        "hex": "#F8FACD"
+    },
+    {
+        "name": "Mimosa",
+        "rgb": [
+            248,
+            253,
+            211
+        ],
+        "hex": "#F8FDD3"
+    },
+    {
+        "name": "Peach Yellow",
+        "rgb": [
+            250,
+            223,
+            173
+        ],
+        "hex": "#FADFAD"
+    },
+    {
+        "name": "Turbo",
+        "rgb": [
+            250,
+            230,
+            0
+        ],
+        "hex": "#FAE600"
+    },
+    {
+        "name": "Marigold Yellow",
+        "rgb": [
+            251,
+            232,
+            112
+        ],
+        "hex": "#FBE870"
+    },
+    {
+        "name": "Candy Corn",
+        "rgb": [
+            251,
+            236,
+            93
+        ],
+        "hex": "#FBEC5D"
+    },
+    {
+        "name": "Shalimar",
+        "rgb": [
+            251,
+            255,
+            186
+        ],
+        "hex": "#FBFFBA"
+    },
+    {
+        "name": "Lightning Yellow",
+        "rgb": [
+            252,
+            192,
+            30
+        ],
+        "hex": "#FCC01E"
+    },
+    {
+        "name": "Candlelight",
+        "rgb": [
+            252,
+            217,
+            23
+        ],
+        "hex": "#FCD917"
+    },
+    {
+        "name": "Moon Glow",
+        "rgb": [
+            252,
+            254,
+            218
+        ],
+        "hex": "#FCFEDA"
+    },
+    {
+        "name": "Lemon",
+        "rgb": [
+            255,
+            255,
+            56
+        ],
+        "hex": "#FFFF38"
+    },
+    {
+        "name": "Pale Prim",
+        "rgb": [
+            253,
+            254,
+            184
+        ],
+        "hex": "#FDFEB8"
+    },
+    {
+        "name": "Cumulus",
+        "rgb": [
+            253,
+            255,
+            213
+        ],
+        "hex": "#FDFFD5"
+    },
+    {
+        "name": "Yellow Sea",
+        "rgb": [
+            254,
+            169,
+            4
+        ],
+        "hex": "#FEA904"
+    },
+    {
+        "name": "Bright Sun",
+        "rgb": [
+            254,
+            211,
+            60
+        ],
+        "hex": "#FED33C"
+    },
+    {
+        "name": "Dandelion",
+        "rgb": [
+            254,
+            216,
+            93
+        ],
+        "hex": "#FED85D"
+    },
+    {
+        "name": "Beeswax",
+        "rgb": [
+            254,
+            242,
+            199
+        ],
+        "hex": "#FEF2C7"
+    },
+    {
+        "name": "Macaroni and Cheese",
+        "rgb": [
+            255,
+            185,
+            123
+        ],
+        "hex": "#FFB97B"
+    },
+    {
+        "name": "Koromiko",
+        "rgb": [
+            255,
+            189,
+            95
+        ],
+        "hex": "#FFBD5F"
+    },
+    {
+        "name": "Golden Tainoi",
+        "rgb": [
+            255,
+            204,
+            92
+        ],
+        "hex": "#FFCC5C"
+    },
+    {
+        "name": "Selective Yellow",
+        "rgb": [
+            255,
+            186,
+            0
+        ],
+        "hex": "#FFBA00"
+    },
+    {
+        "name": "Amber",
+        "rgb": [
+            255,
+            191,
+            0
+        ],
+        "hex": "#FFBF00"
+    },
+    {
+        "name": "Supernova",
+        "rgb": [
+            255,
+            201,
+            1
+        ],
+        "hex": "#FFC901"
+    },
+    {
+        "name": "Sunglow",
+        "rgb": [
+            255,
+            207,
+            72
+        ],
+        "hex": "#FFCF48"
+    },
+    {
+        "name": "Gold",
+        "rgb": [
+            255,
+            215,
+            0
+        ],
+        "hex": "#FFD700"
+    },
+    {
+        "name": "School bus Yellow",
+        "rgb": [
+            255,
+            216,
+            0
+        ],
+        "hex": "#FFD800"
+    },
+    {
+        "name": "Mustard",
+        "rgb": [
+            255,
+            219,
+            88
+        ],
+        "hex": "#FFDB58"
+    },
+    {
+        "name": "Broom",
+        "rgb": [
+            255,
+            236,
+            19
+        ],
+        "hex": "#FFEC13"
+    },
+    {
+        "name": "Gorse",
+        "rgb": [
+            255,
+            241,
+            79
+        ],
+        "hex": "#FFF14F"
+    },
+    {
+        "name": "Lemon Chiffon",
+        "rgb": [
+            255,
+            250,
+            205
+        ],
+        "hex": "#FFFACD"
+    },
+    {
+        "name": "Cream",
+        "rgb": [
+            255,
+            253,
+            208
+        ],
+        "hex": "#FFFDD0"
+    },
+    {
+        "name": "Yellow",
+        "rgb": [
+            252,
+            232,
+            131
+        ],
+        "hex": "#FCE883"
+    },
+    {
+        "name": "Portafino",
+        "rgb": [
+            255,
+            255,
+            180
+        ],
+        "hex": "#FFFFB4"
+    },
+    {
+        "name": "Banana",
+        "rgb": [
+            255,
+            209,
+            42
+        ],
+        "hex": "#FFD12A"
+    },
+    {
+        "name": "Cyber",
+        "rgb": [
+            255,
+            211,
+            0
+        ],
+        "hex": "#FFD300"
+    },
+    {
+        "name": "Laser",
+        "rgb": [
+            200,
+            181,
+            104
+        ],
+        "hex": "#C8B568"
+    },
+    {
+        "name": "Daffodil",
+        "rgb": [
+            255,
+            255,
+            49
+        ],
+        "hex": "#FFFF31"
+    },
+    {
+        "name": "Salomie",
+        "rgb": [
+            254,
+            219,
+            141
+        ],
+        "hex": "#FEDB8D"
+    },
+    {
+        "name": "Gargoyle Gas",
+        "rgb": [
+            255,
+            223,
+            70
+        ],
+        "hex": "#FFDF46"
+    },
+    {
+        "name": "Laser Lemon",
+        "rgb": [
+            254,
+            254,
+            34
+        ],
+        "hex": "#FEFE22"
+    },
+    {
+        "name": "Lemon Glacier",
+        "rgb": [
+            253,
+            255,
+            0
+        ],
+        "hex": "#FDFF00"
+    },
+    {
+        "name": "Lucky",
+        "rgb": [
+            175,
+            159,
+            28
+        ],
+        "hex": "#AF9F1C"
+    },
+    {
+        "name": "Alpine",
+        "rgb": [
+            175,
+            143,
+            44
+        ],
+        "hex": "#AF8F2C"
+    },
+    {
+        "name": "Old Gold",
+        "rgb": [
+            207,
+            181,
+            59
+        ],
+        "hex": "#CFB53B"
+    },
+    {
+        "name": "Ochre",
+        "rgb": [
+            204,
+            119,
+            34
+        ],
+        "hex": "#CC7722"
+    },
+    {
+        "name": "Turmeric",
+        "rgb": [
+            202,
+            187,
+            72
+        ],
+        "hex": "#CABB48"
+    },
+    {
+        "name": "Sundance",
+        "rgb": [
+            201,
+            179,
+            91
+        ],
+        "hex": "#C9B35B"
+    },
+    {
+        "name": "Marigold",
+        "rgb": [
+            185,
+            141,
+            40
+        ],
+        "hex": "#B98D28"
+    },
+    {
+        "name": "Anzac",
+        "rgb": [
+            224,
+            182,
+            70
+        ],
+        "hex": "#E0B646"
+    },
+    {
+        "name": "Sahara Sand",
+        "rgb": [
+            241,
+            231,
+            136
+        ],
+        "hex": "#F1E788"
+    },
+    {
+        "name": "Golden Sand",
+        "rgb": [
+            240,
+            219,
+            125
+        ],
+        "hex": "#F0DB7D"
+    },
+    {
+        "name": "Buff",
+        "rgb": [
+            240,
+            220,
+            130
+        ],
+        "hex": "#F0DC82"
+    },
+    {
+        "name": "Khaki",
+        "rgb": [
+            240,
+            230,
+            140
+        ],
+        "hex": "#F0E68C"
+    },
+    {
+        "name": "Jonquil",
+        "rgb": [
+            238,
+            255,
+            154
+        ],
+        "hex": "#EEFF9A"
+    },
+    {
+        "name": "Honeysuckle",
+        "rgb": [
+            237,
+            252,
+            132
+        ],
+        "hex": "#EDFC84"
+    },
+    {
+        "name": "Manz",
+        "rgb": [
+            238,
+            239,
+            120
+        ],
+        "hex": "#EEEF78"
+    },
+    {
+        "name": "Primrose",
+        "rgb": [
+            237,
+            234,
+            153
+        ],
+        "hex": "#EDEA99"
+    },
+    {
+        "name": "Wild Rice",
+        "rgb": [
+            236,
+            224,
+            144
+        ],
+        "hex": "#ECE090"
+    },
+    {
+        "name": "Roti",
+        "rgb": [
+            198,
+            168,
+            75
+        ],
+        "hex": "#C6A84B"
+    },
+    {
+        "name": "Winter Hazel",
+        "rgb": [
+            213,
+            209,
+            149
+        ],
+        "hex": "#D5D195"
+    },
+    {
+        "name": "Nugget",
+        "rgb": [
+            197,
+            153,
+            34
+        ],
+        "hex": "#C59922"
+    },
+    {
+        "name": "Tacha",
+        "rgb": [
+            214,
+            197,
+            98
+        ],
+        "hex": "#D6C562"
+    },
+    {
+        "name": "Luxor Gold",
+        "rgb": [
+            167,
+            136,
+            44
+        ],
+        "hex": "#A7882C"
+    },
+    {
+        "name": "Sandwisp",
+        "rgb": [
+            245,
+            231,
+            162
+        ],
+        "hex": "#F5E7A2"
+    },
+    {
+        "name": "Buttered Rum",
+        "rgb": [
+            161,
+            117,
+            13
+        ],
+        "hex": "#A1750D"
+    },
+    {
+        "name": "Canary",
+        "rgb": [
+            243,
+            251,
+            98
+        ],
+        "hex": "#F3FB62"
+    },
+    {
+        "name": "Spicy Mustard",
+        "rgb": [
+            116,
+            100,
+            13
+        ],
+        "hex": "#74640D"
+    },
+    {
+        "name": "Corn Harvest",
+        "rgb": [
+            139,
+            107,
+            11
+        ],
+        "hex": "#8B6B0B"
+    },
+    {
+        "name": "Yukon Gold",
+        "rgb": [
+            123,
+            102,
+            8
+        ],
+        "hex": "#7B6608"
+    },
+    {
+        "name": "Himalaya",
+        "rgb": [
+            106,
+            93,
+            27
+        ],
+        "hex": "#6A5D1B"
+    },
+    {
+        "name": "Tidal",
+        "rgb": [
+            241,
+            255,
+            173
+        ],
+        "hex": "#F1FFAD"
+    },
+    {
+        "name": "Lemon Ginger",
+        "rgb": [
+            172,
+            158,
+            34
+        ],
+        "hex": "#AC9E22"
+    },
+    {
+        "name": "Pizza",
+        "rgb": [
+            201,
+            148,
+            21
+        ],
+        "hex": "#C99415"
+    },
+    {
+        "name": "Hokey Pokey",
+        "rgb": [
+            200,
+            165,
+            40
+        ],
+        "hex": "#C8A528"
+    },
+    {
+        "name": "Lemon Yellow",
+        "rgb": [
+            255,
+            244,
+            79
+        ],
+        "hex": "#FFF44F"
+    },
+    {
+        "name": "Orange Yellow",
+        "rgb": [
+            248,
+            213,
+            104
+        ],
+        "hex": "#F8D568"
+    },
+    {
+        "name": "Sizzling Sunrise",
+        "rgb": [
+            255,
+            219,
+            0
+        ],
+        "hex": "#FFDB00"
+    },
+    {
+        "name": "Sahara",
+        "rgb": [
+            183,
+            162,
+            20
+        ],
+        "hex": "#B7A214"
+    },
+    {
+        "name": "Golden Grass",
+        "rgb": [
+            218,
+            165,
+            32
+        ],
+        "hex": "#DAA520"
+    },
+    {
+        "name": "Galliano",
+        "rgb": [
+            220,
+            178,
+            12
+        ],
+        "hex": "#DCB20C"
+    },
+    {
+        "name": "Pirate Gold",
+        "rgb": [
+            186,
+            127,
+            3
+        ],
+        "hex": "#BA7F03"
+    },
+    {
+        "name": "Buddha Gold",
+        "rgb": [
+            193,
+            160,
+            4
+        ],
+        "hex": "#C1A004"
+    },
+    {
+        "name": "Unmellow Yellow",
+        "rgb": [
+            255,
+            255,
+            102
+        ],
+        "hex": "#FFFF66"
+    },
+    {
+        "name": "Yellow Sunshine",
+        "rgb": [
+            255,
+            247,
+            0
+        ],
+        "hex": "#FFF700"
+    }
+]

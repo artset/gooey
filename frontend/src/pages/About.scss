@@ -1,0 +1,100 @@
+@import '../styles/variables';
+
+
+.about {
+    margin-bottom: 100px;
+    
+    &__content {
+        margin: 0 auto;
+        margin-top: 90px;
+        width: 80%;
+    }
+
+
+    img {
+        width: 700px;
+        border: 1px solid $lightgrey2;
+        padding-left: 10px;
+    }
+
+    &__header .button{
+        font-size: 55px;
+    }
+
+    .caption {
+        margin: 10px 0px 10px 0px;
+        color: #aaaaaa;
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .tabs {
+        display: flex;
+        cursor: pointer;
+
+        &__info, &__algorithm {
+            padding: 10px;
+            border-radius: 5px 5px 0px 0px;
+        }
+
+        &__info {
+            margin-right: 5px;
+        }
+        margin-top: 40px;
+    }
+
+    .tab-description {
+        background: white;
+        position: relative;
+        bottom: 0px;
+        padding: 30px;
+        padding-left: 60px;
+        padding-right: 60px;
+        border-radius: 0px 0px 5px 5px;
+    }
+
+    p {
+        font-size: 15px;
+        line-height: 1.6;
+    }
+
+    h4 {
+        margin-top: 40px;
+    }
+
+    .footer {
+        border-top: 1px solid $lightgrey2;
+        margin-top: 40px;
+        padding-top: 30px;
+        font-size: 14px;
+    }
+}
+
+
+.tab-description {
+
+    li {
+        line-height: 25px;
+        font-size: 15px;
+    }
+
+
+    ul li::before {
+        content: "\25AA";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+        color: $primary; /* Change the color */
+        font-weight: bold; /* If you want it to be bold */
+        display: inline-block; /* Needed to add space between the bullet and the text */
+        margin-top: -3px;
+        margin-left: -30px;
+        padding: 10px 10px 0px 10px;
+    }
+}
+
+.photo-container {
+    display: flex;
+    flex-wrap: wrap;
+    img {
+        width: 400px;
+        margin: 3px;
+    }
+}

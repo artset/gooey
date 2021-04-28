@@ -1,0 +1,86 @@
+@import '../styles/variables';
+
+.colors {
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.quiz {
+    &__colorbox {
+        cursor: pointer;
+    }
+    &__text{
+        margin:30px;
+        line-height: 30px;
+        width: 600px;
+    }
+    
+    &__progress {
+        width: 480px;
+        &__circle {
+            font-size: 13px;
+            background: $grey;
+            padding: 2px;
+            width: 20px;
+            height: 20px;
+            text-align:center;
+            line-height: 22px;
+            border-radius: 100%;
+            margin-right: 30px;
+            color: #ffffff;
+            cursor: pointer;
+
+            a {
+                color: #ffffff;
+            }
+
+            border: 3px solid #ffffff;
+
+            &--red {
+                background: $red;
+            }
+
+            &--yellow {
+                background: $yellow;
+            }
+
+            &--green {
+                background: $green;
+            }
+
+            &--blue {
+                background: $blue;
+            }
+
+            &--purple {
+                background: $purple;
+            }
+
+            &--neutral {
+                background: $neutral;
+            }
+
+            &--selected {
+                border: 3px solid $lightgrey2;
+            }
+
+        
+        }
+        display: flex;
+        flex-wrap: wrap;
+
+        &::before {
+            content: "";
+            background-color: $lightgrey1;
+            width: 430px;
+            margin-left: 3px;
+            height: 3px;
+            border-radius: 2px;
+            position: absolute;
+            z-index: -1;
+            margin-top: 12px;
+        }
+
+    }
+}

@@ -1,0 +1,99 @@
+@import '../styles/variables';
+
+.gallery {
+
+    input[type=text] {
+        width: 220px;
+        border:none;
+        border-bottom:1px solid $primary;
+        font-family: $font;
+        display: inline-block;
+        margin-bottom: 20px;
+        padding: 4px;
+        font-size: 16px;
+    }
+
+    &__loader {
+        padding: 50px;
+        margin: 0 auto;
+    }
+    &__search {
+        margin-top: -5px;
+        padding: 20px 20px 15px 20px;
+        position: fixed;
+        width: $contentWidth;
+        z-index: 4;
+        display: flex;
+        @include transition(.5s);
+
+        &__info {
+            font-size: 12px;
+            padding: 3px;
+            opacity: .8;
+
+            &__section {
+                border-bottom: 1px solid $lightgrey1;
+                padding: 3px;
+                line-height: 20px;
+
+                b {
+                    font-weight: 700;
+                    color: $primary;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                }
+
+                &::last-child {
+                    border-bottom: 1px solid transparent;
+                }
+            }
+        }
+
+
+        .button {
+            margin-left: 30px;
+            height: 31px;
+            margin-top: 0px;
+        }
+    }
+
+    &__results {
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 65px;
+        margin: 0 auto;
+    }
+
+
+    &__select-style {
+        margin-left: 30px;
+    }
+
+    .button {
+        margin-left: 30px;
+    }
+}
+
+.accordion--gallery {
+    margin-left: 40px;
+}
+
+.select-style {
+    font-family: $font;
+    height: 30px;
+    padding: 5px 2px 5px 2px;
+    border: 1px solid $primary;
+    border-radius: 5px;
+    background: transparent;
+    @include transition(.4s);
+}
+
+
+// change cursor to pointer
+.fa-info-circle:hover, .fa-heart:hover, .fa-sync-alt:hover {
+    cursor: pointer;
+}
+
+ 
+
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:400,400i,700,700i|Alegreya:400,400i,700,700i|Andada|Antic+Slab|Asap:400,400i,700,700i|Assistant:400,700|Average|Average+Sans|Baskervville:400,400i|Bitter:400,400i,700|Cantarell:400,700|Carme|Copse|Crimson+Text:400,400i,700,700i|DM+Sans:400,400i,700,700i|EB+Garamond:400,400i,700,700i|Fira+Mono:400,700|Goudy+Bookletter+1911|Gudea:400,700|Cabin:400,400i,700,700i|Inconsolata:400,700|Josefin+Sans:400,400i,700,700i|Josefin+Slab:400,400i,700,700i|Karla:400,400i,700,700i|Karma:400,700|Kreon:400,700|Lato:400,400i,700,700i|Libre+Baskerville:400,400i,700|Lora:400,400i,700,700i|Markazi+Text:400,700|Montserrat:400,400i,700,700i|Mukta+Malar:400,700|Neuton:400,400i,700|Noto+Sans:400,400i,700,700i|Nunito:400,400i,700,700i|Old+Standard+TT:400,400i,700|Open+Sans:400,400i,700,700i|Overpass+Mono:400,700|PT+Serif:400,400i,700,700i|Poly:400,400i|Quando|Quattrocento+Sans:400,400i,700,700i|Quattrocento:400,700|Raleway:400,400i,700,700i|Roboto+Slab:400,700|Roboto:400,400i,700,700i|Rosarivo:400,400i|Sen:400,700|Source+Code+Pro:400,400i,700,700i|Source+Sans+Pro:400,400i,700,700i|Sunflower:300,700|Tajawal:400,700|Ubuntu:400,400i,700,700i|Vollkorn:400,400i,700,700i|Work+Sans:400,400i,700,700i|Zilla+Slab:400,400i,700,700i&display=swap');

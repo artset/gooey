@@ -1,0 +1,36 @@
+@import '../styles/variables';
+
+$secondary: #12ffe7;
+
+.blob {
+ 	background: linear-gradient(135deg, $primary 0%, $secondary 100%);
+  animation: morph 4s ease-in-out infinite;
+  transition: all 0.5s ease-in-out;
+  border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
+  height: 400px;
+  width: 400px;
+  margin: 0 auto;
+  // margin-top: 300px;
+  // transform: translate3d(0, -50%, 0) scale(1);
+  // pointer-events: none;
+  // transition: all 0.4s cubic-bezier(0.75, -0.5, 0, 1.75);
+}
+
+
+@keyframes morph {
+  0% {
+			border-radius:  60% 40% 30% 70% / 60% 30% 70% 40%;
+  } 
+	
+	50% {
+			border-radius:  30% 60% 70% 40% / 50% 60% 30% 60%;
+  }
+  
+//   75% {
+//     border-radius:  62% 38% 38% 62% / 38% 62% 38% 62%;
+// }
+  
+	100% {
+		border-radius:  60% 40% 30% 70% / 60% 30% 70% 40%;
+	} 
+}

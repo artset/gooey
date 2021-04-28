@@ -1,0 +1,21 @@
+@import '../styles/variables';
+
+
+.banner {
+    border-radius: 3px;
+    padding: 7px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    &--warning {
+        background: #ffe8a8;
+    }
+
+    &--error {
+        background: #ffb0b4;
+    }
+
+    &--success {
+        background: #c5fcd7;
+    }
+}

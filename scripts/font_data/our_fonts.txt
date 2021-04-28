@@ -1,0 +1,56 @@
+Quattrocento Sans
+Open Sans
+Lato
+Roboto
+Noto Sans
+Ubuntu
+Karla
+Josefin Sans
+Work Sans
+Sen
+Mukta Malar
+Asap
+Raleway
+Source Sans Pro
+Montserrat
+Nunito
+Assistant
+Tajawal
+Average Sans
+Sunflower
+Carme
+Cabin
+Alegreya Sans
+Cantarell
+DM Sans
+Gudea
+Quando
+Zilla Slab
+Josefin Slab
+Roboto Slab
+Crimson Text
+Libre Baskerville
+Bitter
+Markazi Text
+Copse
+Kreon
+Vollkorn
+Neuton
+PT Serif
+Lora
+Quattrocento
+Baskervville
+Andada
+Goudy Bookletter 1911
+Rosarivo
+Poly
+Alegreya
+Antic Slab
+Average
+Karma
+Old Standard TT
+EB Garamond
+Fira Mono
+Overpass Mono
+Inconsolata
+Source Code Pro

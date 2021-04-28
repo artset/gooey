@@ -1,0 +1,61 @@
+@import "styles/variables";
+
+
+body {
+    margin: 0;
+    font-family: $font;
+}
+
+.popup-content {
+    background: transparent !important;
+  }
+
+a {
+    color: $grey;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none; /* Remove default bullets */
+}
+  
+ul li::before {
+    content: "\25AA";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+    color: $primary; /* Change the color */
+    font-weight: bold; /* If you want it to be bold */
+    display: inline-block; /* Needed to add space between the bullet and the text */
+    margin-top: -3px;
+}
+
+h5 {
+    text-transform: uppercase;
+    color: #aaaaaa;
+}
+
+::selection {
+    background: $primary;
+    color: #ffffff; }
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 7px; }
+
+::-webkit-scrollbar-track-piece {
+    background-color: transparent; }
+
+::-webkit-scrollbar-thumb {
+    background-color: $primary;
+    border-radius: 7px;
+}
+
+.content {
+    // color: #000000;
+    padding: 40px;
+    width: $contentWidth;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.caption {
+    font-size: 11px;
+}

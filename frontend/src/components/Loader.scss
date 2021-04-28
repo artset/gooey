@@ -1,0 +1,13 @@
+@import '../styles/variables';
+
+
+.loader {
+    text-align: center;
+
+    &__message {
+        font-size: 16px;
+        color: $primary;
+        padding-top: 15px;
+
+    }
+}

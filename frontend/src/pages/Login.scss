@@ -1,0 +1,35 @@
+@import '../styles/variables';
+
+.login {
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 20px;
+
+    label {
+        display: block;
+    }
+}
+
+input[type=text] {
+    width: 90%;
+    border:none;
+    border-bottom:1px solid $lightgrey1;
+    font-family: $font;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 16px;
+}
+
+
+input[type=password] {
+    width: 90%;
+    border:none;
+    border-bottom:1px solid $lightgrey1;
+    font-family: $font;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 16px;
+}
+

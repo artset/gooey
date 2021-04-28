@@ -1,0 +1,56 @@
+@import '../styles/variables';
+
+
+
+.quiz {
+
+
+    &__sidebar {
+        position: fixed;
+        display: flex;
+        flex-wrap :wrap;
+        width: 230px;
+        flex-direction: column;
+        margin-top: 30px;
+
+
+        &__button {
+            margin-top: 10px;
+            display: block;
+        }
+
+        &__header {
+            width: 210px;
+            border-bottom: 1px solid $lightgrey1;
+            padding: 0px 4px 10px 4px;
+            margin-bottom: 10px;
+        }
+
+        &__message {
+            margin-top: 20px;
+            font-size: 12px;
+            opacity: 0;
+            @include transition(.4s);
+        }
+
+
+        &__box-container {
+            display: flex;
+            flex-direction: row;
+            width: 220px;
+            flex-wrap: wrap;
+        }
+    }
+
+    &__sidebar:hover {
+
+        .quiz__sidebar__message {
+            opacity: 1;
+        }
+    }
+
+    &__page {
+        margin-left: 260px;
+        width: 700px;
+    }
+}

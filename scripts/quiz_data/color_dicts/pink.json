@@ -1,0 +1,1274 @@
+{
+    "Spicy Pink": {
+        "rgb": [
+            255,
+            28,
+            174
+        ],
+        "hex": "#FF1CAE"
+    },
+    "Solid Pink": {
+        "rgb": [
+            137,
+            56,
+            67
+        ],
+        "hex": "#893843"
+    },
+    "Cannon Pink": {
+        "rgb": [
+            137,
+            67,
+            103
+        ],
+        "hex": "#894367"
+    },
+    "Cardinal Pink": {
+        "rgb": [
+            140,
+            5,
+            94
+        ],
+        "hex": "#8C055E"
+    },
+    "Fresh Eggplant": {
+        "rgb": [
+            153,
+            0,
+            102
+        ],
+        "hex": "#990066"
+    },
+    "Mountbatten Pink": {
+        "rgb": [
+            153,
+            122,
+            141
+        ],
+        "hex": "#997A8D"
+    },
+    "Flirt": {
+        "rgb": [
+            162,
+            0,
+            109
+        ],
+        "hex": "#A2006D"
+    },
+    "Jazzberry Jam": {
+        "rgb": [
+            202,
+            55,
+            103
+        ],
+        "hex": "#CA3767"
+    },
+    "Lipstick": {
+        "rgb": [
+            171,
+            5,
+            99
+        ],
+        "hex": "#AB0563"
+    },
+    "Royal Heath": {
+        "rgb": [
+            171,
+            52,
+            114
+        ],
+        "hex": "#AB3472"
+    },
+    "Hippie Pink": {
+        "rgb": [
+            174,
+            69,
+            96
+        ],
+        "hex": "#AE4560"
+    },
+    "Bouquet": {
+        "rgb": [
+            174,
+            128,
+            158
+        ],
+        "hex": "#AE809E"
+    },
+    "Carnation": {
+        "rgb": [
+            249,
+            90,
+            97
+        ],
+        "hex": "#F95A61"
+    },
+    "Orchid Pearl": {
+        "rgb": [
+            123,
+            66,
+            89
+        ],
+        "hex": "#7B4259"
+    },
+    "Carissma": {
+        "rgb": [
+            234,
+            136,
+            168
+        ],
+        "hex": "#EA88A8"
+    },
+    "Blush": {
+        "rgb": [
+            222,
+            93,
+            131
+        ],
+        "hex": "#DE5D83"
+    },
+    "Tulip": {
+        "rgb": [
+            255,
+            135,
+            141
+        ],
+        "hex": "#FF878D"
+    },
+    "Wild Watermelon": {
+        "rgb": [
+            252,
+            108,
+            133
+        ],
+        "hex": "#FC6C85"
+    },
+    "Turkish Rose": {
+        "rgb": [
+            181,
+            114,
+            129
+        ],
+        "hex": "#B57281"
+    },
+    "Hibiscus": {
+        "rgb": [
+            182,
+            49,
+            108
+        ],
+        "hex": "#B6316C"
+    },
+    "Medium Red Violet": {
+        "rgb": [
+            187,
+            51,
+            133
+        ],
+        "hex": "#BB3385"
+    },
+    "Old Rose": {
+        "rgb": [
+            192,
+            128,
+            129
+        ],
+        "hex": "#C08081"
+    },
+    "Fuchsia Pink": {
+        "rgb": [
+            193,
+            84,
+            193
+        ],
+        "hex": "#C154C1"
+    },
+    "Mulberry": {
+        "rgb": [
+            197,
+            75,
+            140
+        ],
+        "hex": "#C54B8C"
+    },
+    "Oriental Pink": {
+        "rgb": [
+            192,
+            128,
+            128
+        ],
+        "hex": "#C08080"
+    },
+    "Red Violet": {
+        "rgb": [
+            192,
+            68,
+            143
+        ],
+        "hex": "#C0448F"
+    },
+    "Viola": {
+        "rgb": [
+            203,
+            143,
+            169
+        ],
+        "hex": "#CB8FA9"
+    },
+    "Puce": {
+        "rgb": [
+            204,
+            136,
+            153
+        ],
+        "hex": "#CC8899"
+    },
+    "Hopbush": {
+        "rgb": [
+            208,
+            109,
+            161
+        ],
+        "hex": "#D06DA1"
+    },
+    "Careys Pink": {
+        "rgb": [
+            210,
+            158,
+            170
+        ],
+        "hex": "#D29EAA"
+    },
+    "Charm": {
+        "rgb": [
+            212,
+            116,
+            148
+        ],
+        "hex": "#D47494"
+    },
+    "My Pink": {
+        "rgb": [
+            214,
+            145,
+            136
+        ],
+        "hex": "#D69188"
+    },
+    "New York Pink": {
+        "rgb": [
+            215,
+            131,
+            127
+        ],
+        "hex": "#D7837F"
+    },
+    "Cabaret": {
+        "rgb": [
+            217,
+            73,
+            114
+        ],
+        "hex": "#D94972"
+    },
+    "Cerise": {
+        "rgb": [
+            221,
+            68,
+            146
+        ],
+        "hex": "#DD4492"
+    },
+    "Cerise Red": {
+        "rgb": [
+            222,
+            49,
+            99
+        ],
+        "hex": "#DE3163"
+    },
+    "Pink Flare": {
+        "rgb": [
+            225,
+            192,
+            200
+        ],
+        "hex": "#E1C0C8"
+    },
+    "Cavern Pink": {
+        "rgb": [
+            227,
+            190,
+            190
+        ],
+        "hex": "#E3BEBE"
+    },
+    "Deep Blush": {
+        "rgb": [
+            228,
+            118,
+            152
+        ],
+        "hex": "#E47698"
+    },
+    "Tonys Pink": {
+        "rgb": [
+            231,
+            159,
+            140
+        ],
+        "hex": "#E79F8C"
+    },
+    "Shilo": {
+        "rgb": [
+            232,
+            185,
+            179
+        ],
+        "hex": "#E8B9B3"
+    },
+    "Oyster Pink": {
+        "rgb": [
+            233,
+            206,
+            205
+        ],
+        "hex": "#E9CECD"
+    },
+    "Sea Pink": {
+        "rgb": [
+            237,
+            152,
+            158
+        ],
+        "hex": "#ED989E"
+    },
+    "Beauty Bush": {
+        "rgb": [
+            238,
+            193,
+            190
+        ],
+        "hex": "#EEC1BE"
+    },
+    "Mauvelous": {
+        "rgb": [
+            239,
+            152,
+            170
+        ],
+        "hex": "#EF98AA"
+    },
+    "Prim": {
+        "rgb": [
+            240,
+            226,
+            236
+        ],
+        "hex": "#F0E2EC"
+    },
+    "Wewak": {
+        "rgb": [
+            241,
+            155,
+            171
+        ],
+        "hex": "#F19BAB"
+    },
+    "Mandys Pink": {
+        "rgb": [
+            242,
+            195,
+            178
+        ],
+        "hex": "#F2C3B2"
+    },
+    "Vanilla Ice": {
+        "rgb": [
+            243,
+            217,
+            223
+        ],
+        "hex": "#F3D9DF"
+    },
+    "Hollywood Cerise": {
+        "rgb": [
+            244,
+            0,
+            161
+        ],
+        "hex": "#F400A1"
+    },
+    "French Rose": {
+        "rgb": [
+            246,
+            74,
+            138
+        ],
+        "hex": "#F64A8A"
+    },
+    "Brilliant Rose": {
+        "rgb": [
+            246,
+            83,
+            166
+        ],
+        "hex": "#F653A6"
+    },
+    "Orchid": {
+        "rgb": [
+            230,
+            168,
+            215
+        ],
+        "hex": "#E6A8D7"
+    },
+    "Blossom": {
+        "rgb": [
+            220,
+            180,
+            188
+        ],
+        "hex": "#DCB4BC"
+    },
+    "Froly": {
+        "rgb": [
+            245,
+            117,
+            132
+        ],
+        "hex": "#F57584"
+    },
+    "Apricot Peach": {
+        "rgb": [
+            251,
+            206,
+            177
+        ],
+        "hex": "#FBCEB1"
+    },
+    "Zinnwaldite": {
+        "rgb": [
+            235,
+            194,
+            175
+        ],
+        "hex": "#EBC2AF"
+    },
+    "Cranberry": {
+        "rgb": [
+            219,
+            80,
+            121
+        ],
+        "hex": "#DB5079"
+    },
+    "Mandy": {
+        "rgb": [
+            226,
+            84,
+            101
+        ],
+        "hex": "#E25465"
+    },
+    "Rose Fog": {
+        "rgb": [
+            231,
+            188,
+            180
+        ],
+        "hex": "#E7BCB4"
+    },
+    "Petite Orchid": {
+        "rgb": [
+            219,
+            150,
+            144
+        ],
+        "hex": "#DB9690"
+    },
+    "Japonica": {
+        "rgb": [
+            216,
+            124,
+            99
+        ],
+        "hex": "#D87C63"
+    },
+    "Eunry": {
+        "rgb": [
+            207,
+            163,
+            157
+        ],
+        "hex": "#CFA39D"
+    },
+    "Can Can": {
+        "rgb": [
+            213,
+            145,
+            164
+        ],
+        "hex": "#D591A4"
+    },
+    "Clam Shell": {
+        "rgb": [
+            212,
+            182,
+            175
+        ],
+        "hex": "#D4B6AF"
+    },
+    "Chestnut Rose": {
+        "rgb": [
+            205,
+            92,
+            92
+        ],
+        "hex": "#CD5C5C"
+    },
+    "Contessa": {
+        "rgb": [
+            198,
+            114,
+            107
+        ],
+        "hex": "#C6726B"
+    },
+    "Brandy Rose": {
+        "rgb": [
+            187,
+            137,
+            131
+        ],
+        "hex": "#BB8983"
+    },
+    "Octopus Daughter": {
+        "rgb": [
+            205,
+            74,
+            76
+        ],
+        "hex": "#CD4A4C"
+    },
+    "Shocking": {
+        "rgb": [
+            226,
+            146,
+            192
+        ],
+        "hex": "#E292C0"
+    },
+    "Light Orchid": {
+        "rgb": [
+            226,
+            156,
+            210
+        ],
+        "hex": "#E29CD2"
+    },
+    "Kobi": {
+        "rgb": [
+            231,
+            159,
+            196
+        ],
+        "hex": "#E79FC4"
+    },
+    "Classic Rose": {
+        "rgb": [
+            251,
+            204,
+            231
+        ],
+        "hex": "#FBCCE7"
+    },
+    "Shocking Magenta": {
+        "rgb": [
+            255,
+            0,
+            255
+        ],
+        "hex": "#FF00FF"
+    },
+    "Lavender Magenta": {
+        "rgb": [
+            238,
+            130,
+            238
+        ],
+        "hex": "#EE82EE"
+    },
+    "Lavender Rose": {
+        "rgb": [
+            251,
+            160,
+            227
+        ],
+        "hex": "#FBA0E3"
+    },
+    "Fiery Rose": {
+        "rgb": [
+            255,
+            84,
+            112
+        ],
+        "hex": "#FF5470"
+    },
+    "Princess Perfume": {
+        "rgb": [
+            255,
+            133,
+            207
+        ],
+        "hex": "#FF85CF"
+    },
+    "Shampoo": {
+        "rgb": [
+            255,
+            207,
+            241
+        ],
+        "hex": "#FFCFF1"
+    },
+    "Bubble Gum": {
+        "rgb": [
+            255,
+            211,
+            248
+        ],
+        "hex": "#FFD3F8"
+    },
+    "Illusion": {
+        "rgb": [
+            246,
+            164,
+            201
+        ],
+        "hex": "#F6A4C9"
+    },
+    "Bittersweet": {
+        "rgb": [
+            253,
+            124,
+            110
+        ],
+        "hex": "#FD7C6E"
+    },
+    "Mona Lisa": {
+        "rgb": [
+            255,
+            161,
+            148
+        ],
+        "hex": "#FFA194"
+    },
+    "Geraldine": {
+        "rgb": [
+            251,
+            137,
+            137
+        ],
+        "hex": "#FB8989"
+    },
+    "Violet Red": {
+        "rgb": [
+            247,
+            83,
+            148
+        ],
+        "hex": "#F75394"
+    },
+    "Persian Pink": {
+        "rgb": [
+            247,
+            127,
+            190
+        ],
+        "hex": "#F77FBE"
+    },
+    "Azalea": {
+        "rgb": [
+            247,
+            200,
+            218
+        ],
+        "hex": "#F7C8DA"
+    },
+    "We Peep": {
+        "rgb": [
+            247,
+            219,
+            230
+        ],
+        "hex": "#F7DBE6"
+    },
+    "Chantilly": {
+        "rgb": [
+            248,
+            195,
+            223
+        ],
+        "hex": "#F8C3DF"
+    },
+    "Cherub": {
+        "rgb": [
+            248,
+            217,
+            233
+        ],
+        "hex": "#F8D9E9"
+    },
+    "Carousel Pink": {
+        "rgb": [
+            249,
+            224,
+            237
+        ],
+        "hex": "#F9E0ED"
+    },
+    "Amour": {
+        "rgb": [
+            249,
+            234,
+            243
+        ],
+        "hex": "#F9EAF3"
+    },
+    "Brink Pink": {
+        "rgb": [
+            251,
+            96,
+            127
+        ],
+        "hex": "#FB607F"
+    },
+    "Lavender Pink": {
+        "rgb": [
+            251,
+            174,
+            210
+        ],
+        "hex": "#FBAED2"
+    },
+    "Rose Bud": {
+        "rgb": [
+            251,
+            178,
+            163
+        ],
+        "hex": "#FBB2A3"
+    },
+    "Cupid": {
+        "rgb": [
+            251,
+            190,
+            218
+        ],
+        "hex": "#FBBEDA"
+    },
+    "Shocking Pink": {
+        "rgb": [
+            251,
+            126,
+            253
+        ],
+        "hex": "#FB7EFD"
+    },
+    "Tickle Me Pink": {
+        "rgb": [
+            252,
+            137,
+            172
+        ],
+        "hex": "#FC89AC"
+    },
+    "Sweet Pink": {
+        "rgb": [
+            253,
+            159,
+            162
+        ],
+        "hex": "#FD9FA2"
+    },
+    "Pig Pink": {
+        "rgb": [
+            253,
+            215,
+            228
+        ],
+        "hex": "#FDD7E4"
+    },
+    "Cinderella": {
+        "rgb": [
+            253,
+            225,
+            220
+        ],
+        "hex": "#FDE1DC"
+    },
+    "Persian Rose": {
+        "rgb": [
+            254,
+            40,
+            162
+        ],
+        "hex": "#FE28A2"
+    },
+    "Melon": {
+        "rgb": [
+            253,
+            188,
+            180
+        ],
+        "hex": "#FDBCB4"
+    },
+    "Remy": {
+        "rgb": [
+            254,
+            235,
+            243
+        ],
+        "hex": "#FEEBF3"
+    },
+    "Bridesmaid": {
+        "rgb": [
+            254,
+            240,
+            236
+        ],
+        "hex": "#FEF0EC"
+    },
+    "Wisp Pink": {
+        "rgb": [
+            254,
+            244,
+            248
+        ],
+        "hex": "#FEF4F8"
+    },
+    "Provincial Pink": {
+        "rgb": [
+            254,
+            245,
+            241
+        ],
+        "hex": "#FEF5F1"
+    },
+    "Rose": {
+        "rgb": [
+            255,
+            0,
+            127
+        ],
+        "hex": "#FF007F"
+    },
+    "Purple Pizzazz": {
+        "rgb": [
+            254,
+            78,
+            218
+        ],
+        "hex": "#FE4EDA"
+    },
+    "Wild Strawberry": {
+        "rgb": [
+            255,
+            67,
+            164
+        ],
+        "hex": "#FF43A4"
+    },
+    "Razzle Dazzle Rose": {
+        "rgb": [
+            255,
+            72,
+            208
+        ],
+        "hex": "#FF48D0"
+    },
+    "Pink Flamingo": {
+        "rgb": [
+            252,
+            116,
+            253
+        ],
+        "hex": "#FC74FD"
+    },
+    "Hot Pink": {
+        "rgb": [
+            255,
+            105,
+            180
+        ],
+        "hex": "#FF69B4"
+    },
+    "Romantic": {
+        "rgb": [
+            255,
+            210,
+            183
+        ],
+        "hex": "#FFD2B7"
+    },
+    "Peach": {
+        "rgb": [
+            255,
+            207,
+            171
+        ],
+        "hex": "#FFCFAB"
+    },
+    "Blush Pink": {
+        "rgb": [
+            255,
+            111,
+            255
+        ],
+        "hex": "#FF6FFF"
+    },
+    "Pink Salmon": {
+        "rgb": [
+            255,
+            145,
+            164
+        ],
+        "hex": "#FF91A4"
+    },
+    "Carnation Pink": {
+        "rgb": [
+            255,
+            166,
+            201
+        ],
+        "hex": "#FFA6C9"
+    },
+    "Hit Pink": {
+        "rgb": [
+            255,
+            171,
+            129
+        ],
+        "hex": "#FFAB81"
+    },
+    "Cornflower Lilac": {
+        "rgb": [
+            255,
+            176,
+            172
+        ],
+        "hex": "#FFB0AC"
+    },
+    "Sundown": {
+        "rgb": [
+            255,
+            177,
+            179
+        ],
+        "hex": "#FFB1B3"
+    },
+    "Cotton Candy": {
+        "rgb": [
+            255,
+            188,
+            217
+        ],
+        "hex": "#FFBCD9"
+    },
+    "Wax Flower": {
+        "rgb": [
+            255,
+            192,
+            168
+        ],
+        "hex": "#FFC0A8"
+    },
+    "Pink": {
+        "rgb": [
+            255,
+            192,
+            203
+        ],
+        "hex": "#FFC0CB"
+    },
+    "Your Pink": {
+        "rgb": [
+            255,
+            195,
+            192
+        ],
+        "hex": "#FFC3C0"
+    },
+    "Pastel Pink": {
+        "rgb": [
+            255,
+            209,
+            220
+        ],
+        "hex": "#FFD1DC"
+    },
+    "Cosmos": {
+        "rgb": [
+            255,
+            216,
+            217
+        ],
+        "hex": "#FFD8D9"
+    },
+    "Lavender blush": {
+        "rgb": [
+            255,
+            240,
+            245
+        ],
+        "hex": "#FFF0F5"
+    },
+    "Burnt Sienna": {
+        "rgb": [
+            234,
+            126,
+            93
+        ],
+        "hex": "#EA7E5D"
+    },
+    "Tutu": {
+        "rgb": [
+            255,
+            241,
+            249
+        ],
+        "hex": "#FFF1F9"
+    },
+    "Peach Schnapps": {
+        "rgb": [
+            255,
+            220,
+            214
+        ],
+        "hex": "#FFDCD6"
+    },
+    "Tuft Bush": {
+        "rgb": [
+            255,
+            221,
+            205
+        ],
+        "hex": "#FFDDCD"
+    },
+    "Watusi": {
+        "rgb": [
+            255,
+            221,
+            207
+        ],
+        "hex": "#FFDDCF"
+    },
+    "Pink Lace": {
+        "rgb": [
+            255,
+            221,
+            244
+        ],
+        "hex": "#FFDDF4"
+    },
+    "Pippin": {
+        "rgb": [
+            255,
+            225,
+            223
+        ],
+        "hex": "#FFE1DF"
+    },
+    "Pale Rose": {
+        "rgb": [
+            255,
+            225,
+            242
+        ],
+        "hex": "#FFE1F2"
+    },
+    "Fair Pink": {
+        "rgb": [
+            255,
+            239,
+            236
+        ],
+        "hex": "#FFEFEC"
+    },
+    "Pink Lady": {
+        "rgb": [
+            242,
+            213,
+            178
+        ],
+        "hex": "#F2D5B2"
+    },
+    "Cinnamon Satin": {
+        "rgb": [
+            205,
+            96,
+            126
+        ],
+        "hex": "#CD607E"
+    },
+    "Frostbite": {
+        "rgb": [
+            233,
+            54,
+            167
+        ],
+        "hex": "#E936A7"
+    },
+    "Fuchsia": {
+        "rgb": [
+            195,
+            100,
+            197
+        ],
+        "hex": "#C364C5"
+    },
+    "Hot Magenta": {
+        "rgb": [
+            255,
+            29,
+            206
+        ],
+        "hex": "#FF1DCE"
+    },
+    "Princess": {
+        "rgb": [
+            252,
+            180,
+            213
+        ],
+        "hex": "#FCB4D5"
+    },
+    "Rose Maroon": {
+        "rgb": [
+            200,
+            56,
+            90
+        ],
+        "hex": "#C8385A"
+    },
+    "Magenta": {
+        "rgb": [
+            246,
+            100,
+            175
+        ],
+        "hex": "#F664AF"
+    },
+    "Mystic Maroon": {
+        "rgb": [
+            173,
+            67,
+            121
+        ],
+        "hex": "#AD4379"
+    },
+    "Pearly Purple": {
+        "rgb": [
+            183,
+            104,
+            162
+        ],
+        "hex": "#B768A2"
+    },
+    "Piggy Pink": {
+        "rgb": [
+            253,
+            221,
+            230
+        ],
+        "hex": "#FDDDE6"
+    },
+    "Pink Pearl": {
+        "rgb": [
+            176,
+            112,
+            128
+        ],
+        "hex": "#B07080"
+    },
+    "Pink Sherbert": {
+        "rgb": [
+            247,
+            143,
+            167
+        ],
+        "hex": "#F78FA7"
+    },
+    "Razzmatazz": {
+        "rgb": [
+            227,
+            37,
+            107
+        ],
+        "hex": "#E3256B"
+    },
+    "Rose Pearl": {
+        "rgb": [
+            240,
+            56,
+            101
+        ],
+        "hex": "#F03865"
+    },
+    "Rose Quartz": {
+        "rgb": [
+            189,
+            85,
+            156
+        ],
+        "hex": "#BD559C"
+    },
+    "Salmon": {
+        "rgb": [
+            255,
+            155,
+            170
+        ],
+        "hex": "#FF9BAA"
+    },
+    "Sasquatch Socks": {
+        "rgb": [
+            255,
+            70,
+            129
+        ],
+        "hex": "#FF4681"
+    },
+    "Shimmering Blush": {
+        "rgb": [
+            217,
+            134,
+            149
+        ],
+        "hex": "#D98695"
+    },
+    "Strawberry": {
+        "rgb": [
+            252,
+            90,
+            141
+        ],
+        "hex": "#FC5A8D"
+    },
+    "Thistle": {
+        "rgb": [
+            235,
+            199,
+            223
+        ],
+        "hex": "#EBC7DF"
+    },
+    "Winter Sky": {
+        "rgb": [
+            255,
+            0,
+            124
+        ],
+        "hex": "#FF007C"
+    }
+}

@@ -1,0 +1,129 @@
+@import '../styles/variables';
+
+.accordion {
+  &--regular {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    width: 160px;
+
+  }
+
+  &--small {
+    width: 60px;
+  }
+
+  &--medium {
+      width: 160px;
+  }
+
+  &--large {
+      width: 200px;
+  }
+
+
+  &--navigation {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+
+    hr {
+      border: 0;
+      color:$dropdownBox;
+      background-color: $dropdownBox;
+      height: 0.8px;
+    }
+
+    .recent-workspaces {
+      font-weight: bold;
+      font-size: 13px;
+      margin-bottom: 5px;
+    }
+  }
+
+  &__header {
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid $dropdownBox;
+    border-radius: 4px;
+    padding: 7px;
+    cursor: pointer;
+    
+  }
+
+  
+  &__header--expanded {
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+
+    border: 2px solid $dropdownBox;
+    border-radius: 4px 4px 0px 0px;
+
+    &--above {
+        border-radius: 0px 0px 4px 4px;
+    }
+
+  }
+
+  &__children {
+    //box-sizing: border-box;
+
+    &--small {
+        width: 42px;
+    }
+
+    &--medium {
+        width: 142px;
+    }
+
+    &--large {
+        width: 182px;
+    }
+    
+    &--regular {
+      position: absolute;
+      z-index: 99;
+      
+      padding: 7px;
+      border-left: 2px solid $dropdownBox;
+      border-right: 2px solid $dropdownBox;
+      border-bottom: 2px solid $dropdownBox;
+      border-radius: 0px 0px 4px 4px;
+
+      &--above {
+          margin-top: -127px;
+          height: 80px;
+          border-left: 2px solid $dropdownBox;
+          border-right: 2px solid $dropdownBox;
+          border-top: 2px solid $dropdownBox;
+          border-radius: 4px 4px 0px 0px;
+          overflow: auto;
+      }
+    }
+
+    &--navigation {
+      position: absolute;
+      z-index: 99;
+      
+      padding: 7px;
+      border-left: 2px solid $dropdownBox;
+      border-right: 2px solid $dropdownBox;
+      border-bottom: 2px solid $dropdownBox;
+      border-radius: 0px 0px 4px 4px;
+    }
+  }
+
+  &__item {
+    font-size: 0.75rem;
+    padding: 7px 0px;
+
+    @include transition(.5s);
+    &:hover {
+      margin-left: 5px;
+      cursor: pointer;
+    }
+  }
+}

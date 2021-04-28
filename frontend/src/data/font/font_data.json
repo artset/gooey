@@ -1,0 +1,438 @@
+{
+    "Alegreya": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Alegreya Sans": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Andada": {
+        "type": "serif",
+        "style": [
+            "regular"
+        ]
+    },
+    "Antic Slab": {
+        "type": "serif",
+        "style": [
+            "regular"
+        ]
+    },
+    "Asap": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Assistant": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Average": {
+        "type": "serif",
+        "style": [
+            "regular"
+        ]
+    },
+    "Average Sans": {
+        "type": "sans-serif",
+        "style": [
+            "regular"
+        ]
+    },
+    "Baskervville": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic"
+        ]
+    },
+    "Bitter": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold"
+        ]
+    },
+    "Cabin": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Cantarell": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Carme": {
+        "type": "sans-serif",
+        "style": [
+            "regular"
+        ]
+    },
+    "Copse": {
+        "type": "serif",
+        "style": [
+            "regular"
+        ]
+    },
+    "Crimson Text": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "DM Sans": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "EB Garamond": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "bold",
+            "italic",
+            "bold italic"
+        ]
+    },
+    "Fira Mono": {
+        "type": "monospace",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Gudea": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold"
+        ]
+    },
+    "Inconsolata": {
+        "type": "monospace",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Josefin Sans": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "bold",
+            "italic",
+            "bold italic"
+        ]
+    },
+    "Josefin Slab": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Karla": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Karma": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Kreon": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Lato": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Libre Baskerville": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold"
+        ]
+    },
+    "Lora": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "bold",
+            "italic",
+            "bold italic"
+        ]
+    },
+    "Markazi Text": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Montserrat": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Mukta Malar": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Neuton": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold"
+        ]
+    },
+    "Noto Sans": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Nunito": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Old Standard TT": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold"
+        ]
+    },
+    "Open Sans": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Overpass Mono": {
+        "type": "monospace",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "PT Serif": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Poly": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic"
+        ]
+    },
+    "Quando": {
+        "type": "serif",
+        "style": [
+            "regular"
+        ]
+    },
+    "Quattrocento": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Quattrocento Sans": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Raleway": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Roboto": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Roboto Slab": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Rosarivo": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic"
+        ]
+    },
+    "Sen": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Source Code Pro": {
+        "type": "monospace",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Source Sans Pro": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Sunflower": {
+        "type": "sans-serif",
+        "style": [
+            "bold"
+        ]
+    },
+    "Tajawal": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "bold"
+        ]
+    },
+    "Ubuntu": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Vollkorn": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    },
+    "Work Sans": {
+        "type": "sans-serif",
+        "style": [
+            "regular",
+            "bold",
+            "italic",
+            "bold italic"
+        ]
+    },
+    "Zilla Slab": {
+        "type": "serif",
+        "style": [
+            "regular",
+            "italic",
+            "bold",
+            "bold italic"
+        ]
+    }
+}

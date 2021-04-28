@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+edu\brown\cs\student\gooey\authentication\UserManager.class
+edu\brown\cs\student\gooey\GooeyApplication.class
+edu\brown\cs\student\gooey\service\FirebaseService.class
+edu\brown\cs\student\gooey\service\Person.class
+edu\brown\cs\student\gooey\service\FirebaseInitialize.class
+edu\brown\cs\student\gooey\HelloController.class
+=======
+edu/brown/cs/student/gooey/controller/MyController$WorkspaceRequest.class
+edu/brown/cs/student/gooey/controller/MyController$ResponseRequest.class
+edu/brown/cs/student/gooey/controller/MyController.class
+edu/brown/cs/student/gooey/model/Workspace.class
+edu/brown/cs/student/gooey/service/FirebaseInitialize.class
+edu/brown/cs/student/gooey/controller/MyController$1.class
+edu/brown/cs/student/gooey/service/FirebaseUserService.class
+edu/brown/cs/student/gooey/model/User.class
+edu/brown/cs/student/gooey/GooeyApplication.class
+edu/brown/cs/student/gooey/authentication/UserManager.class
+>>>>>>> flask_setup

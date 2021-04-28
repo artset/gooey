@@ -1,0 +1,48 @@
+@import '../styles/variables';
+
+.color {
+    // border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    color: white;
+    text-align: end;
+    border-radius: 5px;
+    cursor: pointer;
+
+    
+    &:hover {
+        .colorInfo {
+            opacity: .5;
+        }
+        
+    }
+
+    .colorInfo {
+        font-size: 12px;
+        // position: relative;
+        padding: 10px;
+        margin-top: 25px;
+        opacity: 0;
+        background: #000000;
+        @include transition(.4s);
+
+        .colorName {
+            margin-bottom: 5px;
+        }
+    }
+
+    &--clicked {
+        margin: 18px;
+        border-radius: 17px;
+        border: 12px solid $lightgrey1;
+    }
+}
+
+
+.quiz__colorbox {
+    margin: 4px;
+    display: inline-block;
+    padding: 7px;
+    border-radius: 2px;
+}

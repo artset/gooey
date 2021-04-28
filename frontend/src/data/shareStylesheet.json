@@ -1,0 +1,22 @@
+{ 
+    "bb": {
+            "background": 0,
+            "body": {
+                "color": 1,
+                "font": "Karla",
+                "size": "12px",
+                "alignment": "left",
+                "style": "regular",
+                "text": "Karla Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                },
+            "title":
+                { "color": 1,
+                "font": "Crimson Text",
+                "size": "16px",
+                "alignment": "left",
+                "style": "regular",
+                "text": "Crimson Text Lorem Ipsum"
+                },
+            "colors": ["#FA4343", "#171B6A"]
+            }
+}

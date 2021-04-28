@@ -1,0 +1,554 @@
+{
+    "Fiery Orange": {
+        "rgb": [
+            179,
+            82,
+            19
+        ],
+        "hex": "#B35213"
+    },
+    "Apricot": {
+        "rgb": [
+            235,
+            147,
+            115
+        ],
+        "hex": "#EB9373"
+    },
+    "Porsche": {
+        "rgb": [
+            234,
+            174,
+            105
+        ],
+        "hex": "#EAAE69"
+    },
+    "Orange Roughy": {
+        "rgb": [
+            196,
+            87,
+            25
+        ],
+        "hex": "#C45719"
+    },
+    "Indochine": {
+        "rgb": [
+            194,
+            107,
+            3
+        ],
+        "hex": "#C26B03"
+    },
+    "Burnt Orange": {
+        "rgb": [
+            255,
+            127,
+            73
+        ],
+        "hex": "#FF7F49"
+    },
+    "Tenn": {
+        "rgb": [
+            205,
+            87,
+            0
+        ],
+        "hex": "#CD5700"
+    },
+    "Meteor": {
+        "rgb": [
+            208,
+            125,
+            18
+        ],
+        "hex": "#D07D12"
+    },
+    "Hot Cinnamon": {
+        "rgb": [
+            210,
+            105,
+            30
+        ],
+        "hex": "#D2691E"
+    },
+    "Grenadier": {
+        "rgb": [
+            213,
+            70,
+            0
+        ],
+        "hex": "#D54600"
+    },
+    "Bamboo": {
+        "rgb": [
+            218,
+            99,
+            4
+        ],
+        "hex": "#DA6304"
+    },
+    "Dixie": {
+        "rgb": [
+            226,
+            148,
+            24
+        ],
+        "hex": "#E29418"
+    },
+    "Gamboge": {
+        "rgb": [
+            228,
+            155,
+            15
+        ],
+        "hex": "#E49B0F"
+    },
+    "Zest": {
+        "rgb": [
+            229,
+            132,
+            27
+        ],
+        "hex": "#E5841B"
+    },
+    "Trinidad": {
+        "rgb": [
+            230,
+            78,
+            3
+        ],
+        "hex": "#E64E03"
+    },
+    "Mango Tango": {
+        "rgb": [
+            255,
+            130,
+            67
+        ],
+        "hex": "#FF8243"
+    },
+    "Christine": {
+        "rgb": [
+            231,
+            115,
+            10
+        ],
+        "hex": "#E7730A"
+    },
+    "Fire Bush": {
+        "rgb": [
+            232,
+            153,
+            40
+        ],
+        "hex": "#E89928"
+    },
+    "Golden Bell": {
+        "rgb": [
+            226,
+            137,
+            19
+        ],
+        "hex": "#E28913"
+    },
+    "Clementine": {
+        "rgb": [
+            233,
+            110,
+            0
+        ],
+        "hex": "#E96E00"
+    },
+    "Tahiti Gold": {
+        "rgb": [
+            233,
+            124,
+            7
+        ],
+        "hex": "#E97C07"
+    },
+    "Flesh": {
+        "rgb": [
+            255,
+            203,
+            164
+        ],
+        "hex": "#FFCBA4"
+    },
+    "Chardonnay": {
+        "rgb": [
+            255,
+            205,
+            140
+        ],
+        "hex": "#FFCD8C"
+    },
+    "Tango": {
+        "rgb": [
+            237,
+            122,
+            28
+        ],
+        "hex": "#ED7A1C"
+    },
+    "Carrot Orange": {
+        "rgb": [
+            237,
+            145,
+            33
+        ],
+        "hex": "#ED9121"
+    },
+    "Jaffa": {
+        "rgb": [
+            239,
+            134,
+            63
+        ],
+        "hex": "#EF863F"
+    },
+    "Gold Drop": {
+        "rgb": [
+            241,
+            130,
+            0
+        ],
+        "hex": "#F18200"
+    },
+    "Tangerine": {
+        "rgb": [
+            242,
+            133,
+            0
+        ],
+        "hex": "#F28500"
+    },
+    "Buttercup": {
+        "rgb": [
+            243,
+            173,
+            22
+        ],
+        "hex": "#F3AD16"
+    },
+    "Chilean Fire": {
+        "rgb": [
+            247,
+            119,
+            3
+        ],
+        "hex": "#F77703"
+    },
+    "Ecstasy": {
+        "rgb": [
+            250,
+            120,
+            20
+        ],
+        "hex": "#FA7814"
+    },
+    "Sea Buckthorn": {
+        "rgb": [
+            251,
+            161,
+            41
+        ],
+        "hex": "#FBA129"
+    },
+    "Tree Poppy": {
+        "rgb": [
+            252,
+            156,
+            29
+        ],
+        "hex": "#FC9C1D"
+    },
+    "Crusta": {
+        "rgb": [
+            253,
+            123,
+            51
+        ],
+        "hex": "#FD7B33"
+    },
+    "Piper": {
+        "rgb": [
+            201,
+            99,
+            35
+        ],
+        "hex": "#C96323"
+    },
+    "Sorbus": {
+        "rgb": [
+            253,
+            124,
+            7
+        ],
+        "hex": "#FD7C07"
+    },
+    "Rose of Sharon": {
+        "rgb": [
+            191,
+            85,
+            0
+        ],
+        "hex": "#BF5500"
+    },
+    "California": {
+        "rgb": [
+            254,
+            157,
+            4
+        ],
+        "hex": "#FE9D04"
+    },
+    "Yellow Sea": {
+        "rgb": [
+            254,
+            169,
+            4
+        ],
+        "hex": "#FEA904"
+    },
+    "Yellow Orange": {
+        "rgb": [
+            255,
+            182,
+            83
+        ],
+        "hex": "#FFB653"
+    },
+    "Vivid Tangerine": {
+        "rgb": [
+            255,
+            160,
+            137
+        ],
+        "hex": "#FFA089"
+    },
+    "Texas Rose": {
+        "rgb": [
+            255,
+            181,
+            85
+        ],
+        "hex": "#FFB555"
+    },
+    "International Orange": {
+        "rgb": [
+            255,
+            79,
+            0
+        ],
+        "hex": "#FF4F00"
+    },
+    "Outrageous Orange": {
+        "rgb": [
+            255,
+            110,
+            74
+        ],
+        "hex": "#FF6E4A"
+    },
+    "Blaze Orange": {
+        "rgb": [
+            255,
+            102,
+            0
+        ],
+        "hex": "#FF6600"
+    },
+    "Orange": {
+        "rgb": [
+            255,
+            117,
+            56
+        ],
+        "hex": "#FF7538"
+    },
+    "Persimmon": {
+        "rgb": [
+            255,
+            107,
+            83
+        ],
+        "hex": "#FF6B53"
+    },
+    "Burning Orange": {
+        "rgb": [
+            255,
+            112,
+            52
+        ],
+        "hex": "#FF7034"
+    },
+    "Pumpkin": {
+        "rgb": [
+            255,
+            117,
+            24
+        ],
+        "hex": "#FF7518"
+    },
+    "Flamenco": {
+        "rgb": [
+            255,
+            125,
+            7
+        ],
+        "hex": "#FF7D07"
+    },
+    "Flush Orange": {
+        "rgb": [
+            255,
+            127,
+            0
+        ],
+        "hex": "#FF7F00"
+    },
+    "Coral": {
+        "rgb": [
+            255,
+            127,
+            80
+        ],
+        "hex": "#FF7F50"
+    },
+    "Pizazz": {
+        "rgb": [
+            255,
+            144,
+            0
+        ],
+        "hex": "#FF9000"
+    },
+    "West Side": {
+        "rgb": [
+            255,
+            145,
+            15
+        ],
+        "hex": "#FF910F"
+    },
+    "Neon Carrot": {
+        "rgb": [
+            255,
+            163,
+            67
+        ],
+        "hex": "#FFA343"
+    },
+    "Sunshade": {
+        "rgb": [
+            255,
+            158,
+            44
+        ],
+        "hex": "#FF9E2C"
+    },
+    "Orange Peel": {
+        "rgb": [
+            255,
+            160,
+            0
+        ],
+        "hex": "#FFA000"
+    },
+    "Web Orange": {
+        "rgb": [
+            255,
+            165,
+            0
+        ],
+        "hex": "#FFA500"
+    },
+    "My Sin": {
+        "rgb": [
+            255,
+            179,
+            31
+        ],
+        "hex": "#FFB31F"
+    },
+    "Peach Orange": {
+        "rgb": [
+            255,
+            204,
+            153
+        ],
+        "hex": "#FFCC99"
+    },
+    "Alloy Orange": {
+        "rgb": [
+            196,
+            98,
+            16
+        ],
+        "hex": "#C46210"
+    },
+    "Heat Wave": {
+        "rgb": [
+            255,
+            122,
+            0
+        ],
+        "hex": "#FF7A00"
+    },
+    "Mandarin Pearl": {
+        "rgb": [
+            243,
+            122,
+            72
+        ],
+        "hex": "#F37A48"
+    },
+    "Ogre Odor": {
+        "rgb": [
+            253,
+            82,
+            64
+        ],
+        "hex": "#FD5240"
+    },
+    "Orange Soda": {
+        "rgb": [
+            250,
+            91,
+            61
+        ],
+        "hex": "#FA5B3D"
+    },
+    "Tan Hide": {
+        "rgb": [
+            250,
+            157,
+            90
+        ],
+        "hex": "#FA9D5A"
+    },
+    "Smashed Pumpkin": {
+        "rgb": [
+            255,
+            109,
+            58
+        ],
+        "hex": "#FF6D3A"
+    },
+    "Rajah": {
+        "rgb": [
+            247,
+            182,
+            104
+        ],
+        "hex": "#F7B668"
+    },
+    "Atomic Tangerine": {
+        "rgb": [
+            255,
+            164,
+            116
+        ],
+        "hex": "#FFA474"
+    }
+}
